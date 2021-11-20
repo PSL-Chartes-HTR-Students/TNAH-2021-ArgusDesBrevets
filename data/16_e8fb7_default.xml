@@ -1162,7 +1162,7 @@
                     WIDTH="646"
                     HEIGHT="138">
             <Shape><Polygon POINTS="745 2550 737 2462 1376 2474 1383 2543 1372 2596 1318 2577 1154 2592 1058 2600 1058 2600 1055 2600 741 2581"/></Shape>
-	    <String CONTENT="I. - Agriculture"
+	    <String CONTENT="I. -- Agriculture"
                     HPOS="737"
                     VPOS="2462"
                     WIDTH="646"
@@ -1196,7 +1196,7 @@
                     WIDTH="979"
                     HEIGHT="95">
             <Shape><Polygon POINTS="600 2646 600 2581 1575 2592 1575 2646 1571 2676 596 2665"/></Shape>
-	    <String CONTENT="411309. - Système à ressort ayant"
+	    <String CONTENT="411309. -- Système à ressort ayant"
                     HPOS="596"
                     VPOS="2581"
                     WIDTH="979"
@@ -1298,7 +1298,7 @@
                     WIDTH="1017"
                     HEIGHT="80">
             <Shape><Polygon POINTS="554 2829 550 2775 1563 2772 1567 2829 1567 2848 554 2852"/></Shape>
-	    <String CONTENT="tre les accidents de l&#39;embarrure - F."
+	    <String CONTENT="tre les accidents de l&#39;embarrure -- F."
                     HPOS="550"
                     VPOS="2772"
                     WIDTH="1017"
@@ -1315,7 +1315,7 @@
                     WIDTH="975"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1682 2825 1674 2764 2637 2749 2649 2810 2649 2833 1682 2837"/></Shape>
-	    <String CONTENT="411401 - Coutrier à soc supérieur et"
+	    <String CONTENT="411401 -- Coutrier à soc supérieur et"
                     HPOS="1674"
                     VPOS="2749"
                     WIDTH="975"
@@ -1332,7 +1332,7 @@
                     WIDTH="1013"
                     HEIGHT="92">
             <Shape><Polygon POINTS="1636 2879 1632 2817 2637 2821 2645 2871 2641 2898 1636 2909"/></Shape>
-	    <String CONTENT="soc inférieur - .i. Mohrig - 8-1-10 -"
+	    <String CONTENT="soc inférieur -- .i. Mohrig -- 8-1-10 --"
                     HPOS="1632"
                     VPOS="2817"
                     WIDTH="1013"
@@ -1349,7 +1349,7 @@
                     WIDTH="1021"
                     HEIGHT="76">
             <Shape><Polygon POINTS="554 2890 550 2829 1563 2829 1571 2882 1567 2898 554 2905"/></Shape>
-	    <String CONTENT="C. Jugnet. - 6-1-1910 - 8-4-1910 - 14-6-"
+	    <String CONTENT="C. Jugnet. -- 6-1-1910 -- 8-4-1910 -- 14-6-"
                     HPOS="550"
                     VPOS="2829"
                     WIDTH="1021"
@@ -1366,7 +1366,7 @@
                     WIDTH="1013"
                     HEIGHT="84">
             <Shape><Polygon POINTS="561 2947 558 2882 1563 2886 1571 2940 1567 2959 561 2966"/></Shape>
-	    <String CONTENT="1910 - Ce système exerce un travail ins-"
+	    <String CONTENT="1910 -- Ce système exerce un travail ins-"
                     HPOS="558"
                     VPOS="2882"
                     WIDTH="1013"
@@ -1383,7 +1383,7 @@
                     WIDTH="1017"
                     HEIGHT="91">
             <Shape><Polygon POINTS="1636 2940 1628 2890 2634 2879 2645 2932 2641 2951 1636 2970"/></Shape>
-	    <String CONTENT="- 11-4-10 - 16-6-10 - La charrue est ca-"
+	    <String CONTENT="-- 11-4-10 -- 16-6-10 -- La charrue est ca-"
                     HPOS="1628"
                     VPOS="2879"
                     WIDTH="1017"
@@ -1570,7 +1570,7 @@
                     WIDTH="983"
                     HEIGHT="76">
             <Shape><Polygon POINTS="600 3302 592 3253 1563 3245 1575 3295 1571 3318 600 3321"/></Shape>
-	    <String CONTENT="411326 - Perfectionnement aux presses"
+	    <String CONTENT="411326 -- Perfectionnement aux presses"
                     HPOS="592"
                     VPOS="3245"
                     WIDTH="983"
@@ -1604,7 +1604,7 @@
                     WIDTH="1010"
                     HEIGHT="91">
             <Shape><Polygon POINTS="561 3360 561 3299 1571 3310 1571 3360 1571 3386 561 3390"/></Shape>
-	    <String CONTENT="à alfa. - 6-1-10 - 9-4-10 - 14-6-10 -"
+	    <String CONTENT="à alfa. -- 6-1-10 -- 9-4-10 -- 14-6-10 --"
                     HPOS="561"
                     VPOS="3299"
                     WIDTH="1010"
@@ -1740,7 +1740,7 @@
                     WIDTH="982"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1682 3596 1674 3535 2645 3531 2656 3585 2656 3615 1682 3619"/></Shape>
-	    <String CONTENT="411409 - Procédé et appareil pour la"
+	    <String CONTENT="411409 -- Procédé et appareil pour la"
                     HPOS="1674"
                     VPOS="3531"
                     WIDTH="982"
@@ -1825,7 +1825,7 @@
                     WIDTH="1021"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1640 3715 1632 3665 2641 3654 2653 3703 2649 3722 1640 3734"/></Shape>
-	    <String CONTENT="rongeurs, etc... - Mayfarth - 8-1-10 -"
+	    <String CONTENT="rongeurs, etc... -- Mayfarth -- 8-1-10 --"
                     HPOS="1632"
                     VPOS="3654"
                     WIDTH="1021"
@@ -1859,7 +1859,7 @@
                     WIDTH="1025"
                     HEIGHT="92">
             <Shape><Polygon POINTS="1636 3776 1628 3719 2641 3703 2653 3768 2649 3783 1636 3795"/></Shape>
-	    <String CONTENT="11-4-10 - 16-6-10 - Caractérisés par la dis-"
+	    <String CONTENT="11-4-10 -- 16-6-10 -- Caractérisés par la dis-"
                     HPOS="1628"
                     VPOS="3703"
                     WIDTH="1025"
@@ -1876,7 +1876,7 @@
                     WIDTH="982"
                     HEIGHT="84">
             <Shape><Polygon POINTS="604 3837 604 3780 1586 3780 1586 3837 1586 3860 604 3864"/></Shape>
-	    <String CONTENT="411342 - Charrue automobile - 7-1-10"
+	    <String CONTENT="411342 -- Charrue automobile -- 7-1-10"
                     HPOS="604"
                     VPOS="3780"
                     WIDTH="982"
@@ -1910,7 +1910,7 @@
                     WIDTH="1024"
                     HEIGHT="88">
             <Shape><Polygon POINTS="565 3898 558 3845 1571 3837 1582 3890 1578 3917 565 3925"/></Shape>
-	    <String CONTENT="- 9-1-10 - 4-6-10 - Caractérisée par la"
+	    <String CONTENT="-- 9-1-10 -- 4-6-10 -- Caractérisée par la"
                     HPOS="558"
                     VPOS="3837"
                     WIDTH="1024"

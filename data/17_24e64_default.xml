@@ -139,7 +139,7 @@
                     WIDTH="975"
                     HEIGHT="99">
             <Shape><Polygon POINTS="520 646 516 584 1487 577 1491 646 1487 676 516 665"/></Shape>
-	    <String CONTENT="4411413 - Machine pour couper les bou-"
+	    <String CONTENT="4411413 -- Machine pour couper les bou-"
                     HPOS="516"
                     VPOS="577"
                     WIDTH="975"
@@ -173,7 +173,7 @@
                     WIDTH="1014"
                     HEIGHT="100">
             <Shape><Polygon POINTS="474 699 474 630 1476 649 1480 707 1472 730 466 718"/></Shape>
-	    <String CONTENT="tures -- Bues --"
+	    <String CONTENT="tures -- Bues -- 8-1-10 --11-4-10 -- 16-6-"
                     HPOS="466"
                     VPOS="630"
                     WIDTH="1014"
@@ -462,7 +462,7 @@
                     WIDTH="1002"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1552 1184 1552 1123 2543 1123 2547 1188 2539 1219 1545 1204"/></Shape>
-	    <String CONTENT="15-4-1910 --"
+	    <String CONTENT="15-4-1910 -- 22-6-1910 -- Caractérisés par"
                     HPOS="1545"
                     VPOS="1123"
                     WIDTH="1002"
@@ -1618,7 +1618,7 @@
                     WIDTH="1025"
                     HEIGHT="103">
             <Shape><Polygon POINTS="1514 3260 1514 3191 2528 3210 2531 3268 2524 3294 1506 3287"/></Shape>
-	    <String CONTENT="par litre pour la canne, à"
+	    <String CONTENT="par litre pour la canne, à les soumettre à"
                     HPOS="1506"
                     VPOS="3191"
                     WIDTH="1025"
