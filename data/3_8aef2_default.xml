@@ -24,12 +24,12 @@
                    VPOS="428"
                    WIDTH="2001"
                    HEIGHT="286"
-                   ID="eSc_textblock_3f99a703"
+                   ID="eSc_textblock_07526167"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1866 428 2443 443 2505 577 1835 607 1770 626 1831 684 1633 714 1208 699 1174 623 504 607 520 473 1866 428"/></Shape>
+          <Shape><Polygon POINTS="2443 443 2505 577 1835 607 1770 626 1831 684 1633 714 1208 699 1174 623 504 607 520 473 1866 428"/></Shape>
           
           
-          <TextLine ID="eSc_line_d51cf51e"
+          <TextLine ID="eSc_line_0991e02e"
                     
                     BASELINE="512 600 2478 558" 
                     HPOS="504"
@@ -49,31 +49,14 @@
         
         <TextBlock HPOS="443"
                    VPOS="733"
-                   WIDTH="2123"
+                   WIDTH="1062"
                    HEIGHT="3330"
-                   ID="eSc_textblock_803d2b92"
+                   ID="eSc_textblock_e29a0cce"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1055 733 2550 749 2566 3986 1973 4002 1816 4063 1480 4017 474 4063 443 1055 489 902 443 795 1055 733"/></Shape>
+          <Shape><Polygon POINTS="1491 742 1491 4018 1480 4017 474 4063 443 1055 489 902 443 795 1055 733 1505 738 1505 742"/></Shape>
           
           
-          <TextLine ID="eSc_line_ba953da2"
-                    
-                    BASELINE="1568 802 2543 779" 
-                    HPOS="1556"
-                    VPOS="691"
-                    WIDTH="987"
-                    HEIGHT="146">
-            <Shape><Polygon POINTS="1568 802 1556 741 1705 710 1705 710 1705 710 1709 710 1709 710 1847 730 1904 703 1904 703 1904 703 1908 703 1908 703 1912 703 1912 703 1912 703 2046 726 2214 695 2214 695 2214 695 2218 695 2218 695 2222 695 2222 695 2290 718 2375 691 2378 691 2378 691 2378 691 2382 691 2382 691 2535 718 2543 779 2539 802 1568 837"/></Shape>
-	    <String CONTENT="Bosshard. Roue pour véhicules sur"
-                    HPOS="1556"
-                    VPOS="691"
-                    WIDTH="987"
-                    HEIGHT="146"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_2293e208"
+          <TextLine ID="eSc_line_7815d92a"
                     
                     BASELINE="443 840 1464 810" 
                     HPOS="432"
@@ -90,24 +73,7 @@
 
           
           
-          <TextLine ID="eSc_line_f41cbe0e"
-                    
-                    BASELINE="1525 863 1839 856" 
-                    HPOS="1514"
-                    VPOS="787"
-                    WIDTH="325"
-                    HEIGHT="107">
-            <Shape><Polygon POINTS="1525 863 1514 806 1828 787 1839 856 1839 871 1525 894"/></Shape>
-	    <String CONTENT="routes. 7. 155."
-                    HPOS="1514"
-                    VPOS="787"
-                    WIDTH="325"
-                    HEIGHT="107"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_e93548ce"
+          <TextLine ID="eSc_line_4a8ab79a"
                     
                     BASELINE="504 921 1411 898" 
                     HPOS="497"
@@ -115,7 +81,7 @@
                     WIDTH="914"
                     HEIGHT="133">
             <Shape><Polygon POINTS="504 921 497 856 971 821 975 821 1220 833 1250 814 1254 814 1254 814 1254 814 1258 814 1258 814 1262 814 1262 814 1403 833 1411 898 1411 909 504 947"/></Shape>
-	    <String CONTENT="juin 1910. N° 7058 à 7212"
+	    <String CONTENT="juin 1910. N° 7058 à 7212."
                     HPOS="497"
                     VPOS="814"
                     WIDTH="914"
@@ -124,41 +90,7 @@
 
           
           
-          <TextLine ID="eSc_line_81566f66"
-                    
-                    BASELINE="1575 921 2535 898" 
-                    HPOS="1568"
-                    VPOS="825"
-                    WIDTH="967"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="1575 921 1568 860 2524 825 2535 898 2531 921 1575 947"/></Shape>
-	    <String CONTENT="Bouchaud-Praceiq. Ensemble à inter-"
-                    HPOS="1568"
-                    VPOS="825"
-                    WIDTH="967"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cb729152"
-                    
-                    BASELINE="1529 978 2535 963" 
-                    HPOS="1525"
-                    VPOS="913"
-                    WIDTH="1010"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1529 978 1525 913 2528 913 2535 963 2531 990 1529 1009"/></Shape>
-	    <String CONTENT="régulation à travail proportionnel for-"
-                    HPOS="1525"
-                    VPOS="913"
-                    WIDTH="1010"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_4477cbc1"
+          <TextLine ID="eSc_line_bb511b9c"
                     
                     BASELINE="504 1005 1460 978" 
                     HPOS="497"
@@ -175,24 +107,7 @@
 
           
           
-          <TextLine ID="eSc_line_d2630193"
-                    
-                    BASELINE="1529 1043 2535 1024" 
-                    HPOS="1522"
-                    VPOS="959"
-                    WIDTH="1013"
-                    HEIGHT="107">
-            <Shape><Polygon POINTS="1529 1043 1522 990 2524 959 2535 1024 2531 1051 1529 1066"/></Shape>
-	    <String CONTENT="mant type d’installation pour le captage"
-                    HPOS="1522"
-                    VPOS="959"
-                    WIDTH="1013"
-                    HEIGHT="107"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_8ded610a"
+          <TextLine ID="eSc_line_85f7628c"
                     
                     BASELINE="458 1066 1460 1043" 
                     HPOS="447"
@@ -209,24 +124,7 @@
 
           
           
-          <TextLine ID="eSc_line_60511dd3"
-                    
-                    BASELINE="1529 1104 2535 1081" 
-                    HPOS="1522"
-                    VPOS="1020"
-                    WIDTH="1013"
-                    HEIGHT="111">
-            <Shape><Polygon POINTS="1529 1104 1522 1039 2524 1020 2535 1081 2535 1100 1862 1131 1858 1131 1525 1116"/></Shape>
-	    <String CONTENT="de l’énergie cinétique des ondes mari-"
-                    HPOS="1522"
-                    VPOS="1020"
-                    WIDTH="1013"
-                    HEIGHT="111"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_ac92b5b6"
+          <TextLine ID="eSc_line_a7af27b6"
                     
                     BASELINE="455 1127 1457 1104" 
                     HPOS="443"
@@ -234,7 +132,7 @@
                     WIDTH="1014"
                     HEIGHT="103">
             <Shape><Polygon POINTS="455 1127 443 1062 1445 1047 1457 1104 1457 1135 455 1150"/></Shape>
-	    <String CONTENT="l’éclairage à incandescence par le gaz."
+	    <String CONTENT="I’éclairage à incandescence par le gaz."
                     HPOS="443"
                     VPOS="1047"
                     WIDTH="1014"
@@ -243,24 +141,7 @@
 
           
           
-          <TextLine ID="eSc_line_ef58c087"
-                    
-                    BASELINE="1529 1162 1782 1154" 
-                    HPOS="1525"
-                    VPOS="1097"
-                    WIDTH="257"
-                    HEIGHT="95">
-            <Shape><Polygon POINTS="1529 1162 1525 1097 1774 1104 1782 1154 1782 1173 1529 1192"/></Shape>
-	    <String CONTENT="nes. 7.136."
-                    HPOS="1525"
-                    VPOS="1097"
-                    WIDTH="257"
-                    HEIGHT="95"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_26ea3e62"
+          <TextLine ID="eSc_line_ff90f5ed"
                     
                     BASELINE="455 1184 585 1181" 
                     HPOS="451"
@@ -277,24 +158,7 @@
 
           
           
-          <TextLine ID="eSc_line_af871d94"
-                    
-                    BASELINE="1575 1215 2543 1200" 
-                    HPOS="1568"
-                    VPOS="1131"
-                    WIDTH="979"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="1575 1215 1568 1162 2531 1131 2543 1200 2547 1219 2482 1242 2478 1242 2478 1242 2478 1242 2474 1242 2474 1242 2321 1227 2302 1227 2294 1227 2252 1246 2252 1246 2248 1246 2248 1246 2248 1246 1575 1249"/></Shape>
-	    <String CONTENT="Bourquard. Indicateur de tourisme."
-                    HPOS="1568"
-                    VPOS="1131"
-                    WIDTH="979"
-                    HEIGHT="118"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9b10b2b7"
+          <TextLine ID="eSc_line_0f16b01c"
                     
                     BASELINE="493 1242 1464 1223" 
                     HPOS="485"
@@ -311,24 +175,7 @@
 
           
           
-          <TextLine ID="eSc_line_bb2e6f98"
-                    
-                    BASELINE="1529 1280 1667 1280" 
-                    HPOS="1525"
-                    VPOS="1223"
-                    WIDTH="142"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1529 1280 1529 1223 1667 1223 1667 1280 1663 1307 1525 1299"/></Shape>
-	    <String CONTENT="7.198."
-                    HPOS="1525"
-                    VPOS="1223"
-                    WIDTH="142"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c89b962a"
+          <TextLine ID="eSc_line_b21e28f7"
                     
                     BASELINE="455 1303 975 1295" 
                     HPOS="447"
@@ -345,24 +192,7 @@
 
           
           
-          <TextLine ID="eSc_line_ee2c1be9"
-                    
-                    BASELINE="1575 1337 2547 1314" 
-                    HPOS="1568"
-                    VPOS="1246"
-                    WIDTH="979"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="1575 1337 1568 1276 2535 1246 2547 1314 2543 1345 1575 1368"/></Shape>
-	    <String CONTENT="Boyer. Equilibrage automatique des"
-                    HPOS="1568"
-                    VPOS="1246"
-                    WIDTH="979"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_49d7b150"
+          <TextLine ID="eSc_line_b47c88c0"
                     
                     BASELINE="501 1364 1472 1345" 
                     HPOS="493"
@@ -379,24 +209,7 @@
 
           
           
-          <TextLine ID="eSc_line_cb8da5e1"
-                    
-                    BASELINE="1529 1399 1969 1391" 
-                    HPOS="1522"
-                    VPOS="1337"
-                    WIDTH="447"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1529 1399 1522 1345 1958 1337 1969 1391 1969 1406 1529 1425"/></Shape>
-	    <String CONTENT="aéroplanes. 7.088."
-                    HPOS="1522"
-                    VPOS="1337"
-                    WIDTH="447"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_44e52d12"
+          <TextLine ID="eSc_line_a0d6feec"
                     
                     BASELINE="455 1425 875 1418" 
                     HPOS="451"
@@ -413,24 +226,7 @@
 
           
           
-          <TextLine ID="eSc_line_b68e4524"
-                    
-                    BASELINE="1575 1456 2543 1437" 
-                    HPOS="1568"
-                    VPOS="1376"
-                    WIDTH="975"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1575 1456 1568 1395 2531 1376 2543 1437 2539 1456 1575 1475"/></Shape>
-	    <String CONTENT="Boyer et Robberechts. Procèdé pour"
-                    HPOS="1568"
-                    VPOS="1376"
-                    WIDTH="975"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b9972f74"
+          <TextLine ID="eSc_line_9d5da548"
                     
                     BASELINE="501 1483 1472 1464" 
                     HPOS="493"
@@ -447,24 +243,7 @@
 
           
           
-          <TextLine ID="eSc_line_b26b65d1"
-                    
-                    BASELINE="1533 1517 2547 1502" 
-                    HPOS="1525"
-                    VPOS="1448"
-                    WIDTH="1022"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="1533 1517 1525 1452 2535 1448 2547 1502 2547 1517 1533 1548"/></Shape>
-	    <String CONTENT="aseptiser les tissus et principalement les"
-                    HPOS="1525"
-                    VPOS="1448"
-                    WIDTH="1022"
-                    HEIGHT="100"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_ee228815"
+          <TextLine ID="eSc_line_93c1c7cc"
                     
                     BASELINE="455 1548 1418 1529" 
                     HPOS="447"
@@ -472,7 +251,7 @@
                     WIDTH="971"
                     HEIGHT="96">
             <Shape><Polygon POINTS="455 1548 447 1494 1407 1475 1418 1529 1418 1544 455 1571"/></Shape>
-	    <String CONTENT="Ipompes à fourreau pour forages. 7.207."
+	    <String CONTENT="pompes à fourreau pour forages. 7.207."
                     HPOS="447"
                     VPOS="1475"
                     WIDTH="971"
@@ -481,24 +260,7 @@
 
           
           
-          <TextLine ID="eSc_line_10cae885"
-                    
-                    BASELINE="1536 1587 1992 1571" 
-                    HPOS="1525"
-                    VPOS="1506"
-                    WIDTH="463"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1533 1586 1525 1525 1977 1506 1988 1567 1988 1590 1533 1605"/></Shape>
-	    <String CONTENT="tissus épais. 7.206."
-                    HPOS="1525"
-                    VPOS="1506"
-                    WIDTH="463"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_1cfd9aa8"
+          <TextLine ID="eSc_line_158b8eaf"
                     
                     BASELINE="504 1601 1480 1582" 
                     HPOS="497"
@@ -515,24 +277,7 @@
 
           
           
-          <TextLine ID="eSc_line_63f5798f"
-                    
-                    BASELINE="1575 1636 2543 1613" 
-                    HPOS="1575"
-                    VPOS="1574"
-                    WIDTH="968"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1575 1636 1586 1595 2519 1574 2543 1613 2539 1647 1577 1658"/></Shape>
-	    <String CONTENT="Bremer et C°. Voir Sté dite : Maschi-"
-                    HPOS="1575"
-                    VPOS="1574"
-                    WIDTH="968"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9870cf76"
+          <TextLine ID="eSc_line_785febe8"
                     
                     BASELINE="455 1658 956 1655" 
                     HPOS="451"
@@ -549,7 +294,7 @@
 
           
           
-          <TextLine ID="eSc_line_80f7a02b"
+          <TextLine ID="eSc_line_efd8e40c"
                     
                     BASELINE="504 1720 1472 1701" 
                     HPOS="497"
@@ -566,41 +311,7 @@
 
           
           
-          <TextLine ID="eSc_line_b11bd9f2"
-                    
-                    BASELINE="1522 1721 2543 1681" 
-                    HPOS="1506"
-                    VPOS="1613"
-                    WIDTH="1033"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="1518 1720 1506 1639 2528 1613 2539 1678 2539 1704 1518 1739"/></Shape>
-	    <String CONTENT="nen Armaturen Fabrik vorm H. Bremer"
-                    HPOS="1506"
-                    VPOS="1613"
-                    WIDTH="1033"
-                    HEIGHT="126"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_00163f92"
-                    
-                    BASELINE="1529 1758 1828 1750" 
-                    HPOS="1522"
-                    VPOS="1689"
-                    WIDTH="306"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1529 1758 1522 1701 1816 1689 1828 1750 1828 1769 1533 1768"/></Shape>
-	    <String CONTENT="et C°. 7.191."
-                    HPOS="1522"
-                    VPOS="1689"
-                    WIDTH="306"
-                    HEIGHT="80"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9fbee402"
+          <TextLine ID="eSc_line_6f7f0275"
                     
                     BASELINE="458 1781 1296 1765" 
                     HPOS="451"
@@ -617,24 +328,7 @@
 
           
           
-          <TextLine ID="eSc_line_e92ea9d8"
-                    
-                    BASELINE="1575 1815 2547 1800" 
-                    HPOS="1568"
-                    VPOS="1712"
-                    WIDTH="980"
-                    HEIGHT="130">
-            <Shape><Polygon POINTS="1575 1815 1568 1743 1902 1735 1904 1720 1946 1714 1954 1723 1959 1736 1970 1721 2537 1712 2548 1800 2543 1819 1575 1842"/></Shape>
-	    <String CONTENT="Brachot (Sté Arrault et). Voir Ar-"
-                    HPOS="1568"
-                    VPOS="1712"
-                    WIDTH="980"
-                    HEIGHT="130"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c38830eb"
+          <TextLine ID="eSc_line_24247b50"
                     
                     BASELINE="504 1838 1472 1823" 
                     HPOS="497"
@@ -651,24 +345,7 @@
 
           
           
-          <TextLine ID="eSc_line_ff09cd7d"
-                    
-                    BASELINE="1529 1876 1824 1869" 
-                    HPOS="1525"
-                    VPOS="1808"
-                    WIDTH="299"
-                    HEIGHT="87">
-            <Shape><Polygon POINTS="1529 1876 1525 1808 1816 1811 1824 1869 1824 1892 1529 1895"/></Shape>
-	    <String CONTENT="rault. 7 207."
-                    HPOS="1525"
-                    VPOS="1808"
-                    WIDTH="299"
-                    HEIGHT="87"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_549e04f2"
+          <TextLine ID="eSc_line_02e839b5"
                     
                     BASELINE="458 1899 1128 1892" 
                     HPOS="451"
@@ -685,24 +362,7 @@
 
           
           
-          <TextLine ID="eSc_line_be36b826"
-                    
-                    BASELINE="1579 1934 2550 1918" 
-                    HPOS="1571"
-                    VPOS="1861"
-                    WIDTH="979"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1579 1934 1571 1873 2539 1861 2550 1918 2550 1945 1579 1957"/></Shape>
-	    <String CONTENT="Bruggemann et Wirsick. Fermeture"
-                    HPOS="1571"
-                    VPOS="1861"
-                    WIDTH="979"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_7738810b"
+          <TextLine ID="eSc_line_3ed4120e"
                     
                     BASELINE="504 1960 1472 1938" 
                     HPOS="501"
@@ -719,24 +379,7 @@
 
           
           
-          <TextLine ID="eSc_line_edaeba1b"
-                    
-                    BASELINE="1529 1999 2489 1980" 
-                    HPOS="1522"
-                    VPOS="1922"
-                    WIDTH="967"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1529 1999 1522 1945 2478 1922 2489 1980 2489 2006 1529 2018"/></Shape>
-	    <String CONTENT="pour gants et pièces analogues. 7.099."
-                    HPOS="1522"
-                    VPOS="1922"
-                    WIDTH="967"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_6281b7e1"
+          <TextLine ID="eSc_line_87a6691e"
                     
                     BASELINE="462 2025 1464 2002" 
                     HPOS="455"
@@ -753,24 +396,7 @@
 
           
           
-          <TextLine ID="eSc_line_c33ad145"
-                    
-                    BASELINE="1579 2052 2547 2037" 
-                    HPOS="1571"
-                    VPOS="1976"
-                    WIDTH="976"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1579 2052 1571 1995 2535 1976 2547 2037 2543 2064 1579 2075"/></Shape>
-	    <String CONTENT="Brukenhaus et Lorenz (Sté). Disposi-"
-                    HPOS="1571"
-                    VPOS="1976"
-                    WIDTH="976"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_a41598e2"
+          <TextLine ID="eSc_line_35d9ff8a"
                     
                     BASELINE="458 2079 1476 2067" 
                     HPOS="455"
@@ -787,24 +413,7 @@
 
           
           
-          <TextLine ID="eSc_line_11dbf89a"
-                    
-                    BASELINE="1537 2113 2547 2098" 
-                    HPOS="1529"
-                    VPOS="2041"
-                    WIDTH="1018"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="1537 2113 1529 2052 2535 2041 2547 2098 2543 2129 1537 2144"/></Shape>
-	    <String CONTENT="tif régulateur pour installations de"
-                    HPOS="1529"
-                    VPOS="2041"
-                    WIDTH="1018"
-                    HEIGHT="103"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_f2fea780"
+          <TextLine ID="eSc_line_40f931d0"
                     
                     BASELINE="458 2140 1212 2125" 
                     HPOS="451"
@@ -821,24 +430,7 @@
 
           
           
-          <TextLine ID="eSc_line_e3f141f0"
-                    
-                    BASELINE="1533 2175 2397 2159" 
-                    HPOS="1525"
-                    VPOS="2106"
-                    WIDTH="872"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1533 2175 1525 2113 2386 2106 2397 2159 2397 2175 1533 2190"/></Shape>
-	    <String CONTENT="chauffage par l’eau chaude. 7.183."
-                    HPOS="1525"
-                    VPOS="2106"
-                    WIDTH="872"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_ebfa3550"
+          <TextLine ID="eSc_line_be51a620"
                     
                     BASELINE="504 2194 1476 2182" 
                     HPOS="501"
@@ -846,7 +438,7 @@
                     WIDTH="975"
                     HEIGHT="88">
             <Shape><Polygon POINTS="504 2194 501 2132 1468 2132 1476 2182 1472 2213 504 2220"/></Shape>
-	    <String CONTENT="Barbier, Benard et Turenne (Socié-"
+	    <String CONTENT="Barbier. Benard et Turenne (Socié-"
                     HPOS="501"
                     VPOS="2132"
                     WIDTH="975"
@@ -855,24 +447,7 @@
 
           
           
-          <TextLine ID="eSc_line_c8b3c5ba"
-                    
-                    BASELINE="1579 2228 2547 2220" 
-                    HPOS="1571"
-                    VPOS="2159"
-                    WIDTH="976"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="1579 2228 1571 2175 2535 2159 2547 2220 2543 2247 1579 2251"/></Shape>
-	    <String CONTENT="Cachard (Sté Bosset). Voir Bosset."
-                    HPOS="1571"
-                    VPOS="2159"
-                    WIDTH="976"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_262fdd23"
+          <TextLine ID="eSc_line_1cc6ae16"
                     
                     BASELINE="462 2259 1476 2243" 
                     HPOS="455"
@@ -889,24 +464,7 @@
 
           
           
-          <TextLine ID="eSc_line_5819e59f"
-                    
-                    BASELINE="1525 2293 1667 2285" 
-                    HPOS="1518"
-                    VPOS="2220"
-                    WIDTH="149"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1525 2293 1518 2220 1659 2228 1667 2285 1667 2304 1525 2316"/></Shape>
-	    <String CONTENT="7.124."
-                    HPOS="1518"
-                    VPOS="2220"
-                    WIDTH="149"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b2970575"
+          <TextLine ID="eSc_line_bd5eca87"
                     
                     BASELINE="466 2312 1464 2308" 
                     HPOS="458"
@@ -923,24 +481,7 @@
 
           
           
-          <TextLine ID="eSc_line_955fecbf"
-                    
-                    BASELINE="1579 2350 2554 2339" 
-                    HPOS="1571"
-                    VPOS="2285"
-                    WIDTH="983"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1579 2350 1571 2297 2543 2285 2554 2339 2550 2373 1579 2373"/></Shape>
-	    <String CONTENT="Calot. Traverse de chemin de fer en"
-                    HPOS="1571"
-                    VPOS="2285"
-                    WIDTH="983"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_64c10b3c"
+          <TextLine ID="eSc_line_207d0b98"
                     
                     BASELINE="462 2373 749 2373" 
                     HPOS="462"
@@ -957,24 +498,7 @@
 
           
           
-          <TextLine ID="eSc_line_832920d6"
-                    
-                    BASELINE="1529 2411 2241 2400" 
-                    HPOS="1525"
-                    VPOS="2347"
-                    WIDTH="716"
-                    HEIGHT="87">
-            <Shape><Polygon POINTS="1529 2411 1525 2347 2233 2347 2241 2400 2237 2427 1529 2434"/></Shape>
-	    <String CONTENT="béton de ciment armé. 7.156."
-                    HPOS="1525"
-                    VPOS="2347"
-                    WIDTH="716"
-                    HEIGHT="87"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_37046eaa"
+          <TextLine ID="eSc_line_8dc27603"
                     
                     BASELINE="504 2434 1330 2434" 
                     HPOS="501"
@@ -991,24 +515,7 @@
 
           
           
-          <TextLine ID="eSc_line_b1ad70c4"
-                    
-                    BASELINE="1579 2469 2554 2457" 
-                    HPOS="1571"
-                    VPOS="2396"
-                    WIDTH="983"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1579 2469 1571 2411 2543 2396 2554 2457 2554 2473 1579 2484"/></Shape>
-	    <String CONTENT="Cambessédès. Dispositif, pour pro-"
-                    HPOS="1571"
-                    VPOS="2396"
-                    WIDTH="983"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9488fa3f"
+          <TextLine ID="eSc_line_9e96980c"
                     
                     BASELINE="504 2492 1476 2484" 
                     HPOS="501"
@@ -1025,24 +532,7 @@
 
           
           
-          <TextLine ID="eSc_line_7f5bb60d"
-                    
-                    BASELINE="1541 2530 2550 2519" 
-                    HPOS="1537"
-                    VPOS="2469"
-                    WIDTH="1013"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1541 2530 1537 2469 2543 2469 2550 2519 2547 2541 1541 2557"/></Shape>
-	    <String CONTENT="duire l’allumage au démarrage des mo-"
-                    HPOS="1537"
-                    VPOS="2469"
-                    WIDTH="1013"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_089d1bc5"
+          <TextLine ID="eSc_line_1990009d"
                     
                     BASELINE="462 2557 1395 2541" 
                     HPOS="455"
@@ -1050,7 +540,7 @@
                     WIDTH="940"
                     HEIGHT="88">
             <Shape><Polygon POINTS="462 2557 455 2492 1384 2488 1395 2541 1395 2572 462 2576"/></Shape>
-	    <String CONTENT="trices pour bas de vétements. 7.166."
+	    <String CONTENT="trices pour bas de vêtements. 7.166."
                     HPOS="455"
                     VPOS="2488"
                     WIDTH="940"
@@ -1059,24 +549,7 @@
 
           
           
-          <TextLine ID="eSc_line_633cd28b"
-                    
-                    BASELINE="1541 2587 2164 2580" 
-                    HPOS="1533"
-                    VPOS="2530"
-                    WIDTH="631"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="1541 2587 1533 2534 2153 2530 2164 2580 2160 2614 1541 2622"/></Shape>
-	    <String CONTENT="teurs à explosions. 7.076."
-                    HPOS="1533"
-                    VPOS="2530"
-                    WIDTH="631"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_5a924f36"
+          <TextLine ID="eSc_line_99f1efbf"
                     
                     BASELINE="508 2614 1480 2606" 
                     HPOS="501"
@@ -1093,24 +566,7 @@
 
           
           
-          <TextLine ID="eSc_line_21a273ed"
-                    
-                    BASELINE="1579 2648 2554 2641" 
-                    HPOS="1571"
-                    VPOS="2576"
-                    WIDTH="983"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1579 2648 1571 2591 2543 2576 2554 2641 2554 2656 1579 2664"/></Shape>
-	    <String CONTENT="Caron et Rodier. Navette pour mé-"
-                    HPOS="1571"
-                    VPOS="2576"
-                    WIDTH="983"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_78c54da8"
+          <TextLine ID="eSc_line_45a9fe17"
                     
                     BASELINE="458 2671 1373 2664" 
                     HPOS="451"
@@ -1127,24 +583,7 @@
 
           
           
-          <TextLine ID="eSc_line_7068fc6b"
-                    
-                    BASELINE="1537 2710 2042 2710" 
-                    HPOS="1530"
-                    VPOS="2637"
-                    WIDTH="512"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="1537 2710 1537 2637 2042 2652 2042 2710 2042 2729 1530 2730"/></Shape>
-	    <String CONTENT="tiers à tisser. 7.090."
-                    HPOS="1530"
-                    VPOS="2637"
-                    WIDTH="512"
-                    HEIGHT="93"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c6247d9c"
+          <TextLine ID="eSc_line_77604723"
                     
                     BASELINE="508 2729 1480 2729" 
                     HPOS="504"
@@ -1161,24 +600,7 @@
 
           
           
-          <TextLine ID="eSc_line_a015cfbe"
-                    
-                    BASELINE="1587 2767 2550 2756" 
-                    HPOS="1575"
-                    VPOS="2691"
-                    WIDTH="975"
-                    HEIGHT="95">
-            <Shape><Polygon POINTS="1587 2767 1575 2717 1652 2691 1655 2725 1652 2730 1669 2728 1667 2721 1694 2713 1705 2713 1881 2713 2529 2707 2550 2756 2547 2775 1587 2786"/></Shape>
-	    <String CONTENT="*Cassella et C° G. m. b. H. (Sté). Pré-"
-                    HPOS="1575"
-                    VPOS="2691"
-                    WIDTH="975"
-                    HEIGHT="95"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_09cd32e7"
+          <TextLine ID="eSc_line_c9ccc1e4"
                     
                     BASELINE="466 2794 959 2782" 
                     HPOS="462"
@@ -1195,24 +617,7 @@
 
           
           
-          <TextLine ID="eSc_line_31854578"
-                    
-                    BASELINE="1537 2832 2550 2817" 
-                    HPOS="1533"
-                    VPOS="2767"
-                    WIDTH="1017"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="1537 2832 1533 2767 2543 2767 2550 2817 2547 2836 1537 2859"/></Shape>
-	    <String CONTENT="paration de dérivés halogénés d’indo-"
-                    HPOS="1533"
-                    VPOS="2767"
-                    WIDTH="1017"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_3463f9e8"
+          <TextLine ID="eSc_line_74cc5273"
                     
                     BASELINE="508 2847 1476 2840" 
                     HPOS="501"
@@ -1229,24 +634,7 @@
 
           
           
-          <TextLine ID="eSc_line_387c5e8c"
-                    
-                    BASELINE="1537 2893 2547 2878" 
-                    HPOS="1529"
-                    VPOS="2813"
-                    WIDTH="1018"
-                    HEIGHT="111">
-            <Shape><Polygon POINTS="1537 2893 1529 2840 2535 2813 2547 2878 2543 2905 1537 2924"/></Shape>
-	    <String CONTENT="phénols en partant des carbazols. 7.103."
-                    HPOS="1529"
-                    VPOS="2813"
-                    WIDTH="1018"
-                    HEIGHT="111"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c93cb232"
+          <TextLine ID="eSc_line_f8bf01ea"
                     
                     BASELINE="462 2912 1476 2905" 
                     HPOS="455"
@@ -1263,24 +651,7 @@
 
           
           
-          <TextLine ID="eSc_line_bb7e5a83"
-                    
-                    BASELINE="1591 2947 2550 2939" 
-                    HPOS="1583"
-                    VPOS="2882"
-                    WIDTH="967"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="1591 2947 1583 2893 2539 2882 2550 2939 2543 2973 1587 2966"/></Shape>
-	    <String CONTENT="*Chaplet. Procédé pour maintenir en"
-                    HPOS="1583"
-                    VPOS="2882"
-                    WIDTH="967"
-                    HEIGHT="91"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_deb9063a"
+          <TextLine ID="eSc_line_a113050f"
                     
                     BASELINE="466 2970 604 2970" 
                     HPOS="462"
@@ -1297,24 +668,7 @@
 
           
           
-          <TextLine ID="eSc_line_74ac0411"
-                    
-                    BASELINE="1537 3004 2550 3004" 
-                    HPOS="1537"
-                    VPOS="2961"
-                    WIDTH="1013"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="1537 3004 1555 2966 2547 2961 2550 3004 2550 3027 1537 3035"/></Shape>
-	    <String CONTENT="état de charge les accumulateurs élec-"
-                    HPOS="1537"
-                    VPOS="2961"
-                    WIDTH="1013"
-                    HEIGHT="74"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_ef717b76"
+          <TextLine ID="eSc_line_aeb5cc48"
                     
                     BASELINE="508 3031 1483 3019" 
                     HPOS="501"
@@ -1322,7 +676,7 @@
                     WIDTH="982"
                     HEIGHT="80">
             <Shape><Polygon POINTS="508 3031 501 2973 1472 2966 1483 3019 1483 3035 508 3046"/></Shape>
-	    <String CONTENT="Berry. Pert. dans les commutateurs."
+	    <String CONTENT="Berry. Perf. dans les commutateurs"
                     HPOS="501"
                     VPOS="2966"
                     WIDTH="982"
@@ -1331,24 +685,7 @@
 
           
           
-          <TextLine ID="eSc_line_4e63e95d"
-                    
-                    BASELINE="1545 3069 2401 3058" 
-                    HPOS="1541"
-                    VPOS="3004"
-                    WIDTH="860"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1545 3069 1541 3004 2394 3008 2401 3058 2397 3084 1549 3084"/></Shape>
-	    <String CONTENT="triques ou piles secondaires. 7.101."
-                    HPOS="1541"
-                    VPOS="3004"
-                    WIDTH="860"
-                    HEIGHT="80"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_bda379db"
+          <TextLine ID="eSc_line_7049f8e2"
                     
                     BASELINE="462 3092 1476 3084" 
                     HPOS="455"
@@ -1365,24 +702,7 @@
 
           
           
-          <TextLine ID="eSc_line_c40c8f56"
-                    
-                    BASELINE="1587 3126 2562 3115" 
-                    HPOS="1586"
-                    VPOS="3049"
-                    WIDTH="976"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="1587 3126 1586 3049 2553 3072 2562 3115 2558 3138 1587 3149"/></Shape>
-	    <String CONTENT="Chaumet. Dispositif de montage des"
-                    HPOS="1586"
-                    VPOS="3049"
-                    WIDTH="976"
-                    HEIGHT="100"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_901b03fd"
+          <TextLine ID="eSc_line_dd80bd14"
                     
                     BASELINE="462 3145 604 3153" 
                     HPOS="458"
@@ -1399,24 +719,7 @@
 
           
           
-          <TextLine ID="eSc_line_e07b169d"
-                    
-                    BASELINE="1537 3191 2478 3180" 
-                    HPOS="1529"
-                    VPOS="3126"
-                    WIDTH="949"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1537 3191 1529 3138 2466 3126 2478 3180 2474 3210 1537 3222"/></Shape>
-	    <String CONTENT="pierres employées en joaillerie. 7.091."
-                    HPOS="1529"
-                    VPOS="3126"
-                    WIDTH="949"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_5c49ff10"
+          <TextLine ID="eSc_line_eff4f679"
                     
                     BASELINE="508 3214 1480 3195" 
                     HPOS="501"
@@ -1433,24 +736,7 @@
 
           
           
-          <TextLine ID="eSc_line_5fba6ea1"
-                    
-                    BASELINE="1583 3245 2558 3237" 
-                    HPOS="1575"
-                    VPOS="3187"
-                    WIDTH="983"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="1583 3245 1575 3195 2547 3187 2558 3237 2548 3253 1582 3249"/></Shape>
-	    <String CONTENT="Child. Perf. aux désintégrateurs cen-"
-                    HPOS="1575"
-                    VPOS="3187"
-                    WIDTH="983"
-                    HEIGHT="66"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_69884982"
+          <TextLine ID="eSc_line_8364ceaa"
                     
                     BASELINE="470 3268 1476 3260" 
                     HPOS="466"
@@ -1467,24 +753,7 @@
 
           
           
-          <TextLine ID="eSc_line_3946943f"
-                    
-                    BASELINE="1541 3306 1904 3306" 
-                    HPOS="1537"
-                    VPOS="3237"
-                    WIDTH="367"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1541 3306 1537 3245 1900 3237 1904 3306 1904 3325 1541 3333"/></Shape>
-	    <String CONTENT="trituges. 7.082."
-                    HPOS="1537"
-                    VPOS="3237"
-                    WIDTH="367"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_231ffa24"
+          <TextLine ID="eSc_line_c1385a34"
                     
                     BASELINE="470 3333 1047 3321" 
                     HPOS="462"
@@ -1501,24 +770,7 @@
 
           
           
-          <TextLine ID="eSc_line_59fd5fb0"
-                    
-                    BASELINE="1587 3367 2558 3356" 
-                    HPOS="1587"
-                    VPOS="3298"
-                    WIDTH="971"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1587 3367 1592 3320 1900 3321 1933 3321 2550 3298 2558 3356 2554 3386 1587 3394"/></Shape>
-	    <String CONTENT="Clark. Méthode perfectionnée pour re-"
-                    HPOS="1587"
-                    VPOS="3298"
-                    WIDTH="971"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_2b3bd12a"
+          <TextLine ID="eSc_line_2157b853"
                     
                     BASELINE="512 3386 1480 3375" 
                     HPOS="504"
@@ -1535,24 +787,7 @@
 
           
           
-          <TextLine ID="eSc_line_59e3b450"
-                    
-                    BASELINE="1545 3424 2554 3417" 
-                    HPOS="1537"
-                    VPOS="3356"
-                    WIDTH="1017"
-                    HEIGHT="95">
-            <Shape><Polygon POINTS="1545 3424 1537 3375 2543 3356 2554 3417 2550 3436 1545 3451"/></Shape>
-	    <String CONTENT="couvrir des feuilles minces de fer ou"
-                    HPOS="1537"
-                    VPOS="3356"
-                    WIDTH="1017"
-                    HEIGHT="95"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cac9767d"
+          <TextLine ID="eSc_line_88c537a9"
                     
                     BASELINE="474 3444 1480 3444" 
                     HPOS="474"
@@ -1560,7 +795,7 @@
                     WIDTH="1006"
                     HEIGHT="96">
             <Shape><Polygon POINTS="474 3444 474 3382 1480 3382 1480 3444 1480 3463 474 3478"/></Shape>
-	    <String CONTENT="tionné pour traiter et nettoyer les dé-"
+	    <String CONTENT="tionné pour traiiter et nettoyer les dé-"
                     HPOS="474"
                     VPOS="3382"
                     WIDTH="1006"
@@ -1569,24 +804,7 @@
 
           
           
-          <TextLine ID="eSc_line_4dc3faf6"
-                    
-                    BASELINE="1545 3486 2558 3474" 
-                    HPOS="1537"
-                    VPOS="3413"
-                    WIDTH="1021"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1545 3486 1537 3428 2547 3413 2558 3474 2554 3505 1545 3509"/></Shape>
-	    <String CONTENT="d’acier, etc., avec du cuivre ou ses al-"
-                    HPOS="1537"
-                    VPOS="3413"
-                    WIDTH="1021"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_bdd6f583"
+          <TextLine ID="eSc_line_8bb501ff"
                     
                     BASELINE="474 3512 1338 3501" 
                     HPOS="466"
@@ -1603,24 +821,7 @@
 
           
           
-          <TextLine ID="eSc_line_2526fccf"
-                    
-                    BASELINE="1545 3547 1862 3547" 
-                    HPOS="1545"
-                    VPOS="3486"
-                    WIDTH="317"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1545 3547 1545 3486 1862 3486 1862 3547 1862 3562 1545 3566"/></Shape>
-	    <String CONTENT="liages. 7.147."
-                    HPOS="1545"
-                    VPOS="3486"
-                    WIDTH="317"
-                    HEIGHT="80"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_07401873"
+          <TextLine ID="eSc_line_643f8215"
                     
                     BASELINE="512 3566 1445 3566" 
                     HPOS="512"
@@ -1637,24 +838,7 @@
 
           
           
-          <TextLine ID="eSc_line_1afce561"
-                    
-                    BASELINE="1591 3600 2558 3593" 
-                    HPOS="1583"
-                    VPOS="3528"
-                    WIDTH="975"
-                    HEIGHT="95">
-            <Shape><Polygon POINTS="1591 3600 1583 3551 1701 3528 1701 3528 1705 3528 2550 3528 2558 3593 2554 3623 1587 3619"/></Shape>
-	    <String CONTENT="Clarke., Perf. aux bateaux pour mar-"
-                    HPOS="1583"
-                    VPOS="3528"
-                    WIDTH="975"
-                    HEIGHT="95"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_0eb1127e"
+          <TextLine ID="eSc_line_cfdc58c3"
                     
                     BASELINE="516 3627 1487 3627" 
                     HPOS="516"
@@ -1671,24 +855,7 @@
 
           
           
-          <TextLine ID="eSc_line_3e5c10d1"
-                    
-                    BASELINE="1545 3661 1954 3661" 
-                    HPOS="1545"
-                    VPOS="3600"
-                    WIDTH="409"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1545 3661 1545 3600 1954 3608 1954 3661 1954 3688 1545 3688"/></Shape>
-	    <String CONTENT="chandises. 7.089."
-                    HPOS="1545"
-                    VPOS="3600"
-                    WIDTH="409"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_82e8627d"
+          <TextLine ID="eSc_line_6e3b1383"
                     
                     BASELINE="474 3688 1487 3688" 
                     HPOS="474"
@@ -1705,24 +872,7 @@
 
           
           
-          <TextLine ID="eSc_line_25ea744c"
-                    
-                    BASELINE="1591 3723 2554 3723" 
-                    HPOS="1587"
-                    VPOS="3642"
-                    WIDTH="967"
-                    HEIGHT="130">
-            <Shape><Polygon POINTS="1591 3723 1622 3679 2322 3669 2371 3665 2359 3642 2363 3642 2391 3657 2371 3642 2554 3642 2554 3723 2554 3749 1812 3772 1809 3772 1587 3749"/></Shape>
-	    <String CONTENT="Clavenad. Indicateur de stabilté."
-                    HPOS="1587"
-                    VPOS="3642"
-                    WIDTH="967"
-                    HEIGHT="130"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_c15a6d2e"
+          <TextLine ID="eSc_line_73bbba4e"
                     
                     BASELINE="474 3753 879 3746" 
                     HPOS="466"
@@ -1739,24 +889,7 @@
 
           
           
-          <TextLine ID="eSc_line_d7799145"
-                    
-                    BASELINE="1541 3791 1682 3791" 
-                    HPOS="1537"
-                    VPOS="3715"
-                    WIDTH="145"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1541 3791 1541 3715 1682 3726 1682 3791 1678 3814 1537 3807"/></Shape>
-	    <String CONTENT="7.117."
-                    HPOS="1537"
-                    VPOS="3715"
-                    WIDTH="145"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_770b7678"
+          <TextLine ID="eSc_line_3ae393b4"
                     
                     BASELINE="516 3811 1483 3791" 
                     HPOS="508"
@@ -1773,24 +906,7 @@
 
           
           
-          <TextLine ID="eSc_line_7ba13950"
-                    
-                    BASELINE="1591 3853 2554 3845" 
-                    HPOS="1583"
-                    VPOS="3761"
-                    WIDTH="971"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="1591 3853 1583 3791 1681 3802 1718 3805 1952 3801 2061 3784 2083 3800 2102 3791 2118 3797 2125 3804 2138 3801 2155 3808 2180 3781 2543 3761 2554 3845 2550 3876 1591 3883"/></Shape>
-	    <String CONTENT="Clerc. Machine à couper la viande,"
-                    HPOS="1583"
-                    VPOS="3761"
-                    WIDTH="971"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_d5637d05"
+          <TextLine ID="eSc_line_1c549b33"
                     
                     BASELINE="474 3864 1480 3856" 
                     HPOS="470"
@@ -1807,24 +923,7 @@
 
           
           
-          <TextLine ID="eSc_line_9caae828"
-                    
-                    BASELINE="1545 3914 2294 3914" 
-                    HPOS="1545"
-                    VPOS="3845"
-                    WIDTH="749"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1545 3914 1545 3845 2294 3849 2294 3914 2294 3940 1545 3944"/></Shape>
-	    <String CONTENT="le pain, le fromage, etc. 7.192."
-                    HPOS="1545"
-                    VPOS="3845"
-                    WIDTH="749"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_174f25c4"
+          <TextLine ID="eSc_line_8c4ca090"
                     
                     BASELINE="474 3929 1097 3921" 
                     HPOS="466"
@@ -1841,7 +940,7 @@
 
           
           
-          <TextLine ID="eSc_line_93527bc0"
+          <TextLine ID="eSc_line_44d0bf9a"
                     
                     BASELINE="520 3983 1487 3975" 
                     HPOS="512"
@@ -1858,24 +957,7 @@
 
           
           
-          <TextLine ID="eSc_line_6860b901"
-                    
-                    BASELINE="1591 3979 2562 3967" 
-                    HPOS="1583"
-                    VPOS="3898"
-                    WIDTH="979"
-                    HEIGHT="123">
-            <Shape><Polygon POINTS="1591 3979 1583 3910 2550 3898 2562 3967 2562 3986 2237 4001 2233 4017 2141 3998 1977 4017 1973 4017 1969 4017 1927 3998 1900 4021 1896 4021 1893 4021 1889 4021 1885 4021 1881 4021 1847 4002 1591 4002"/></Shape>
-	    <String CONTENT="Couinaud. Patin à billes de roule-"
-                    HPOS="1583"
-                    VPOS="3898"
-                    WIDTH="979"
-                    HEIGHT="123"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cc7c8d76"
+          <TextLine ID="eSc_line_787b4170"
                     
                     BASELINE="470 4048 940 4040" 
                     HPOS="458"
@@ -1891,35 +973,18 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_669524cd"
-                    
-                    BASELINE="1537 4040 1847 4040" 
-                    HPOS="1533"
-                    VPOS="3975"
-                    WIDTH="314"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="1537 4040 1533 3983 1843 3975 1847 4040 1847 4093 1640 4074 1620 4083 1548 4065"/></Shape>
-	    <String CONTENT="ment. 7.086."
-                    HPOS="1533"
-                    VPOS="3975"
-                    WIDTH="314"
-                    HEIGHT="118"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
         <TextBlock HPOS="1468"
                    VPOS="290"
                    WIDTH="57"
                    HEIGHT="57"
-                   ID="eSc_textblock_9ea5695f"
+                   ID="eSc_textblock_07521d21"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1468 290 1525 290 1525 332 1468 347 1468 290"/></Shape>
+          <Shape><Polygon POINTS="1525 290 1525 332 1468 347 1468 290"/></Shape>
           
           
-          <TextLine ID="eSc_line_56dea43f"
+          <TextLine ID="eSc_line_2fe9ef5e"
                     
                     BASELINE="1460 332 1514 328" 
                     HPOS="1453"
@@ -1927,11 +992,956 @@
                     WIDTH="61"
                     HEIGHT="118">
             <Shape><Polygon POINTS="1460 332 1453 233 1506 240 1514 328 1514 347 1460 351"/></Shape>
-	    <String CONTENT="2"
+	    <String CONTENT="_ 2 _"
                     HPOS="1453"
                     VPOS="233"
                     WIDTH="61"
                     HEIGHT="118"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1528"
+                   VPOS="738"
+                   WIDTH="1038"
+                   HEIGHT="3325"
+                   ID="eSc_textblock_6f6eef7f"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2550 749 2566 3986 1973 4002 1816 4063 1528 4024 1528 777 1533 777 1533 738"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9f46bd83"
+                    
+                    BASELINE="1568 802 2543 779" 
+                    HPOS="1556"
+                    VPOS="691"
+                    WIDTH="987"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="1568 802 1556 741 1705 710 1705 710 1705 710 1709 710 1709 710 1847 730 1904 703 1904 703 1904 703 1908 703 1908 703 1912 703 1912 703 1912 703 2046 726 2214 695 2214 695 2214 695 2218 695 2218 695 2222 695 2222 695 2290 718 2375 691 2378 691 2378 691 2378 691 2382 691 2382 691 2535 718 2543 779 2539 802 1568 837"/></Shape>
+	    <String CONTENT="Bosshard. Roue pour véhicules sur"
+                    HPOS="1556"
+                    VPOS="691"
+                    WIDTH="987"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76df3321"
+                    
+                    BASELINE="1525 863 1839 856" 
+                    HPOS="1514"
+                    VPOS="787"
+                    WIDTH="325"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1525 863 1514 806 1828 787 1839 856 1839 871 1525 894"/></Shape>
+	    <String CONTENT="routes. 7. 155."
+                    HPOS="1514"
+                    VPOS="787"
+                    WIDTH="325"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77593a2a"
+                    
+                    BASELINE="1575 921 2535 898" 
+                    HPOS="1568"
+                    VPOS="825"
+                    WIDTH="967"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1575 921 1568 860 2524 825 2535 898 2531 921 1575 947"/></Shape>
+	    <String CONTENT="Bouchaud-Praceiq. Ensemble à inter-"
+                    HPOS="1568"
+                    VPOS="825"
+                    WIDTH="967"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c91c0cee"
+                    
+                    BASELINE="1529 978 2535 963" 
+                    HPOS="1525"
+                    VPOS="913"
+                    WIDTH="1010"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1529 978 1525 913 2528 913 2535 963 2531 990 1529 1009"/></Shape>
+	    <String CONTENT="régulation à travail proportionnel for-"
+                    HPOS="1525"
+                    VPOS="913"
+                    WIDTH="1010"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87916438"
+                    
+                    BASELINE="1529 1043 2535 1024" 
+                    HPOS="1522"
+                    VPOS="959"
+                    WIDTH="1013"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1529 1043 1522 990 2524 959 2535 1024 2531 1051 1529 1066"/></Shape>
+	    <String CONTENT="mant type d’installation pour le captage"
+                    HPOS="1522"
+                    VPOS="959"
+                    WIDTH="1013"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a537c0c0"
+                    
+                    BASELINE="1529 1104 2535 1081" 
+                    HPOS="1522"
+                    VPOS="1020"
+                    WIDTH="1013"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1529 1104 1522 1039 2524 1020 2535 1081 2535 1100 1862 1131 1858 1131 1525 1116"/></Shape>
+	    <String CONTENT="de l’énergie cinétique des ondes mari-"
+                    HPOS="1522"
+                    VPOS="1020"
+                    WIDTH="1013"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8640a477"
+                    
+                    BASELINE="1529 1162 1782 1154" 
+                    HPOS="1525"
+                    VPOS="1097"
+                    WIDTH="257"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1529 1162 1525 1097 1774 1104 1782 1154 1782 1173 1529 1192"/></Shape>
+	    <String CONTENT="nes. 7.136."
+                    HPOS="1525"
+                    VPOS="1097"
+                    WIDTH="257"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87c09cc2"
+                    
+                    BASELINE="1575 1215 2543 1200" 
+                    HPOS="1568"
+                    VPOS="1131"
+                    WIDTH="979"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1575 1215 1568 1162 2531 1131 2543 1200 2547 1219 2482 1242 2478 1242 2478 1242 2478 1242 2474 1242 2474 1242 2321 1227 2302 1227 2294 1227 2252 1246 2252 1246 2248 1246 2248 1246 2248 1246 1575 1249"/></Shape>
+	    <String CONTENT="Bourquard. Indicateur de tourisme."
+                    HPOS="1568"
+                    VPOS="1131"
+                    WIDTH="979"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_688c609b"
+                    
+                    BASELINE="1529 1280 1667 1280" 
+                    HPOS="1525"
+                    VPOS="1223"
+                    WIDTH="142"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1529 1280 1529 1223 1667 1223 1667 1280 1663 1307 1525 1299"/></Shape>
+	    <String CONTENT="7.198."
+                    HPOS="1525"
+                    VPOS="1223"
+                    WIDTH="142"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e124e01"
+                    
+                    BASELINE="1575 1337 2547 1314" 
+                    HPOS="1568"
+                    VPOS="1246"
+                    WIDTH="979"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1575 1337 1568 1276 2535 1246 2547 1314 2543 1345 1575 1368"/></Shape>
+	    <String CONTENT="Boyer. Equilibrage automatique des"
+                    HPOS="1568"
+                    VPOS="1246"
+                    WIDTH="979"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54bfefc7"
+                    
+                    BASELINE="1529 1399 1969 1391" 
+                    HPOS="1522"
+                    VPOS="1337"
+                    WIDTH="447"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1529 1399 1522 1345 1958 1337 1969 1391 1969 1406 1529 1425"/></Shape>
+	    <String CONTENT="aéroplanes. 7.088."
+                    HPOS="1522"
+                    VPOS="1337"
+                    WIDTH="447"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_968f63de"
+                    
+                    BASELINE="1575 1456 2543 1437" 
+                    HPOS="1568"
+                    VPOS="1376"
+                    WIDTH="975"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1575 1456 1568 1395 2531 1376 2543 1437 2539 1456 1575 1475"/></Shape>
+	    <String CONTENT="Boyer et Robberechts. Procèdé pour"
+                    HPOS="1568"
+                    VPOS="1376"
+                    WIDTH="975"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d655a364"
+                    
+                    BASELINE="1533 1517 2547 1502" 
+                    HPOS="1525"
+                    VPOS="1448"
+                    WIDTH="1022"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1533 1517 1525 1452 2535 1448 2547 1502 2547 1517 1533 1548"/></Shape>
+	    <String CONTENT="aseptiser les tissus et principalement les"
+                    HPOS="1525"
+                    VPOS="1448"
+                    WIDTH="1022"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ca727d8"
+                    
+                    BASELINE="1529 1578 1992 1571" 
+                    HPOS="1522"
+                    VPOS="1506"
+                    WIDTH="470"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1529 1578 1522 1525 1981 1506 1992 1571 1992 1593 1529 1597"/></Shape>
+	    <String CONTENT="tissus épais. 7206."
+                    HPOS="1522"
+                    VPOS="1506"
+                    WIDTH="470"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d224e488"
+                    
+                    BASELINE="1575 1636 2543 1613" 
+                    HPOS="1568"
+                    VPOS="1548"
+                    WIDTH="975"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1575 1636 1568 1571 2531 1548 2543 1613 2539 1647 1575 1658"/></Shape>
+	    <String CONTENT="Bremer et C°. Voir Sté dite : Maschi-"
+                    HPOS="1568"
+                    VPOS="1548"
+                    WIDTH="975"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_227a78fc"
+                    
+                    BASELINE="1529 1697 2543 1681" 
+                    HPOS="1522"
+                    VPOS="1620"
+                    WIDTH="1021"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1529 1697 1522 1639 2531 1620 2543 1681 2539 1708 1529 1727"/></Shape>
+	    <String CONTENT="nen Armaturen Fabrik vorm H. Bremer"
+                    HPOS="1522"
+                    VPOS="1620"
+                    WIDTH="1021"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_383b95cc"
+                    
+                    BASELINE="1529 1758 1828 1750" 
+                    HPOS="1522"
+                    VPOS="1689"
+                    WIDTH="306"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1529 1758 1522 1701 1816 1689 1828 1750 1828 1769 1529 1792"/></Shape>
+	    <String CONTENT="et C°. 7.191."
+                    HPOS="1522"
+                    VPOS="1689"
+                    WIDTH="306"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b91ba1a2"
+                    
+                    BASELINE="1575 1815 2547 1800" 
+                    HPOS="1568"
+                    VPOS="1681"
+                    WIDTH="979"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="1575 1815 1568 1743 1889 1735 1904 1720 1950 1681 1950 1681 1954 1681 1954 1681 1954 1681 1958 1681 1958 1681 1961 1681 2539 1681 2547 1800 2543 1819 1575 1842"/></Shape>
+	    <String CONTENT="Brochot (Sté Arrault et). Voir Ar-"
+                    HPOS="1568"
+                    VPOS="1681"
+                    WIDTH="979"
+                    HEIGHT="161"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fd0422b"
+                    
+                    BASELINE="1529 1876 1824 1869" 
+                    HPOS="1525"
+                    VPOS="1808"
+                    WIDTH="299"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1529 1876 1525 1808 1816 1811 1824 1869 1824 1892 1529 1895"/></Shape>
+	    <String CONTENT="rault. 7 207."
+                    HPOS="1525"
+                    VPOS="1808"
+                    WIDTH="299"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0582fb39"
+                    
+                    BASELINE="1579 1934 2550 1918" 
+                    HPOS="1571"
+                    VPOS="1861"
+                    WIDTH="979"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1579 1934 1571 1873 2539 1861 2550 1918 2550 1945 1579 1957"/></Shape>
+	    <String CONTENT="Bruggemann et Wirsick. Fermeture"
+                    HPOS="1571"
+                    VPOS="1861"
+                    WIDTH="979"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dd30534"
+                    
+                    BASELINE="1529 1999 2489 1980" 
+                    HPOS="1522"
+                    VPOS="1922"
+                    WIDTH="967"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1529 1999 1522 1945 2478 1922 2489 1980 2489 2006 1529 2018"/></Shape>
+	    <String CONTENT="pour gants et pièces analogues. 7.099."
+                    HPOS="1522"
+                    VPOS="1922"
+                    WIDTH="967"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f359fbe6"
+                    
+                    BASELINE="1579 2052 2547 2037" 
+                    HPOS="1571"
+                    VPOS="1976"
+                    WIDTH="976"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1579 2052 1571 1995 2535 1976 2547 2037 2543 2064 1579 2075"/></Shape>
+	    <String CONTENT="Brukenhaus et Lorenz (Sté). Disposi-"
+                    HPOS="1571"
+                    VPOS="1976"
+                    WIDTH="976"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae2d4224"
+                    
+                    BASELINE="1537 2113 2547 2098" 
+                    HPOS="1529"
+                    VPOS="2041"
+                    WIDTH="1018"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1537 2113 1529 2052 2535 2041 2547 2098 2543 2129 1537 2144"/></Shape>
+	    <String CONTENT="tif régulateur pour installations de"
+                    HPOS="1529"
+                    VPOS="2041"
+                    WIDTH="1018"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7f472ce"
+                    
+                    BASELINE="1533 2175 2397 2159" 
+                    HPOS="1525"
+                    VPOS="2106"
+                    WIDTH="872"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1533 2175 1525 2113 2386 2106 2397 2159 2397 2175 1533 2190"/></Shape>
+	    <String CONTENT="chauffage par l’eau chaude. 7.183."
+                    HPOS="1525"
+                    VPOS="2106"
+                    WIDTH="872"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26593e61"
+                    
+                    BASELINE="1579 2228 2547 2220" 
+                    HPOS="1571"
+                    VPOS="2159"
+                    WIDTH="976"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1579 2228 1571 2175 2535 2159 2547 2220 2543 2247 1579 2251"/></Shape>
+	    <String CONTENT="Cachard (Sté Bosset). Voir Bosset."
+                    HPOS="1571"
+                    VPOS="2159"
+                    WIDTH="976"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb0fbbb4"
+                    
+                    BASELINE="1525 2293 1667 2285" 
+                    HPOS="1518"
+                    VPOS="2220"
+                    WIDTH="149"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1525 2293 1518 2220 1659 2228 1667 2285 1667 2304 1525 2316"/></Shape>
+	    <String CONTENT="7.124."
+                    HPOS="1518"
+                    VPOS="2220"
+                    WIDTH="149"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0eee8a4"
+                    
+                    BASELINE="1579 2350 2554 2339" 
+                    HPOS="1571"
+                    VPOS="2285"
+                    WIDTH="983"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1579 2350 1571 2297 2543 2285 2554 2339 2550 2373 1579 2373"/></Shape>
+	    <String CONTENT="Calot. Traverse de chemin de fer en"
+                    HPOS="1571"
+                    VPOS="2285"
+                    WIDTH="983"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16500454"
+                    
+                    BASELINE="1529 2411 2241 2400" 
+                    HPOS="1525"
+                    VPOS="2347"
+                    WIDTH="716"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1529 2411 1525 2347 2233 2347 2241 2400 2237 2427 1529 2434"/></Shape>
+	    <String CONTENT="béton de ciment armé. 7.156."
+                    HPOS="1525"
+                    VPOS="2347"
+                    WIDTH="716"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bb8ee7b"
+                    
+                    BASELINE="1579 2469 2554 2457" 
+                    HPOS="1571"
+                    VPOS="2396"
+                    WIDTH="983"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1579 2469 1571 2411 2543 2396 2554 2457 2554 2473 1579 2484"/></Shape>
+	    <String CONTENT="Cambessédès. Dispositif pour pro-"
+                    HPOS="1571"
+                    VPOS="2396"
+                    WIDTH="983"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bacaba1"
+                    
+                    BASELINE="1541 2530 2550 2519" 
+                    HPOS="1537"
+                    VPOS="2469"
+                    WIDTH="1013"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1541 2530 1537 2469 2543 2469 2550 2519 2547 2541 1541 2557"/></Shape>
+	    <String CONTENT="duire l’allumage au démarrage des mo-"
+                    HPOS="1537"
+                    VPOS="2469"
+                    WIDTH="1013"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a341c64"
+                    
+                    BASELINE="1541 2587 2164 2580" 
+                    HPOS="1533"
+                    VPOS="2530"
+                    WIDTH="631"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1541 2587 1533 2534 2153 2530 2164 2580 2160 2614 1541 2622"/></Shape>
+	    <String CONTENT="teurs à explosions. 7.076."
+                    HPOS="1533"
+                    VPOS="2530"
+                    WIDTH="631"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e387bb5"
+                    
+                    BASELINE="1579 2648 2554 2641" 
+                    HPOS="1571"
+                    VPOS="2576"
+                    WIDTH="983"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1579 2648 1571 2591 2543 2576 2554 2641 2554 2656 1579 2664"/></Shape>
+	    <String CONTENT="Caron et Rodier. Navette pour mé-"
+                    HPOS="1571"
+                    VPOS="2576"
+                    WIDTH="983"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_306e1964"
+                    
+                    BASELINE="1537 2710 2042 2710" 
+                    HPOS="1537"
+                    VPOS="2637"
+                    WIDTH="505"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1537 2710 1537 2637 2042 2652 2042 2710 2042 2729 1537 2733"/></Shape>
+	    <String CONTENT="tiers à tisser. 7.090."
+                    HPOS="1537"
+                    VPOS="2637"
+                    WIDTH="505"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd34ae1d"
+                    
+                    BASELINE="1587 2767 2550 2756" 
+                    HPOS="1575"
+                    VPOS="2683"
+                    WIDTH="975"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1587 2767 1575 2717 1652 2691 1656 2691 1656 2691 1656 2691 1659 2691 1659 2691 1659 2691 1663 2691 1663 2691 1667 2691 1667 2691 1694 2713 1705 2713 1881 2713 2539 2683 2550 2756 2547 2775 1587 2786"/></Shape>
+	    <String CONTENT="* Cassella et C° G. m. b. H. (Sté). Pré-"
+                    HPOS="1575"
+                    VPOS="2683"
+                    WIDTH="975"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d06798eb"
+                    
+                    BASELINE="1537 2832 2550 2817" 
+                    HPOS="1533"
+                    VPOS="2767"
+                    WIDTH="1017"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1537 2832 1533 2767 2543 2767 2550 2817 2547 2836 1537 2859"/></Shape>
+	    <String CONTENT="paration de dérivés halogénés d’indo-"
+                    HPOS="1533"
+                    VPOS="2767"
+                    WIDTH="1017"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f35096a5"
+                    
+                    BASELINE="1537 2893 2547 2878" 
+                    HPOS="1529"
+                    VPOS="2813"
+                    WIDTH="1018"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1537 2893 1529 2840 2535 2813 2547 2878 2543 2905 1537 2924"/></Shape>
+	    <String CONTENT="phénols en partant des carbazols. 7.103."
+                    HPOS="1529"
+                    VPOS="2813"
+                    WIDTH="1018"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28c8f30d"
+                    
+                    BASELINE="1591 2947 2550 2939" 
+                    HPOS="1583"
+                    VPOS="2882"
+                    WIDTH="967"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1591 2947 1583 2893 2539 2882 2550 2939 2543 2973 1587 2966"/></Shape>
+	    <String CONTENT="*Chaplet. Procédé pour maintenir en"
+                    HPOS="1583"
+                    VPOS="2882"
+                    WIDTH="967"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43b5908f"
+                    
+                    BASELINE="1537 3004 2550 3004" 
+                    HPOS="1533"
+                    VPOS="2878"
+                    WIDTH="1017"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="1537 3004 1533 2885 2547 2878 2550 3004 2550 3027 1537 3035"/></Shape>
+	    <String CONTENT="*Chaplet. Procédé pour maintenir en état de charge les accumulateurs élec-"
+                    HPOS="1533"
+                    VPOS="2878"
+                    WIDTH="1017"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f4fc487"
+                    
+                    BASELINE="1545 3069 2401 3058" 
+                    HPOS="1541"
+                    VPOS="3004"
+                    WIDTH="860"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1545 3069 1541 3004 2394 3008 2401 3058 2397 3084 1545 3103"/></Shape>
+	    <String CONTENT="triques ou piles secondaires. 7.101."
+                    HPOS="1541"
+                    VPOS="3004"
+                    WIDTH="860"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92c0d884"
+                    
+                    BASELINE="1587 3126 2562 3115" 
+                    HPOS="1583"
+                    VPOS="3065"
+                    WIDTH="979"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1587 3126 1583 3065 2554 3065 2562 3115 2558 3138 1587 3149"/></Shape>
+	    <String CONTENT="Chaumet. Dispositif de montage des"
+                    HPOS="1583"
+                    VPOS="3065"
+                    WIDTH="979"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db987c09"
+                    
+                    BASELINE="1537 3191 2478 3180" 
+                    HPOS="1529"
+                    VPOS="3126"
+                    WIDTH="949"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1537 3191 1529 3138 2466 3126 2478 3180 2474 3210 1537 3222"/></Shape>
+	    <String CONTENT="pierres employées en joaillerie. 7.091."
+                    HPOS="1529"
+                    VPOS="3126"
+                    WIDTH="949"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9ac55fc"
+                    
+                    BASELINE="1583 3245 2558 3237" 
+                    HPOS="1575"
+                    VPOS="3187"
+                    WIDTH="983"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1583 3245 1575 3195 2547 3187 2558 3237 2554 3275 1583 3283"/></Shape>
+	    <String CONTENT="Child. Perf. aux désintégrateurs cen-"
+                    HPOS="1575"
+                    VPOS="3187"
+                    WIDTH="983"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41c5c2eb"
+                    
+                    BASELINE="1541 3306 1904 3306" 
+                    HPOS="1537"
+                    VPOS="3237"
+                    WIDTH="367"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1541 3306 1537 3245 1900 3237 1904 3306 1904 3325 1541 3333"/></Shape>
+	    <String CONTENT="trituges. 7.082."
+                    HPOS="1537"
+                    VPOS="3237"
+                    WIDTH="367"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_692c9697"
+                    
+                    BASELINE="1587 3367 2558 3356" 
+                    HPOS="1579"
+                    VPOS="3287"
+                    WIDTH="979"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1587 3367 1579 3310 1900 3287 1904 3287 2550 3298 2558 3356 2554 3386 1587 3394"/></Shape>
+	    <String CONTENT="Clark. Méthode perfectionnée pour re-"
+                    HPOS="1579"
+                    VPOS="3287"
+                    WIDTH="979"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e626674"
+                    
+                    BASELINE="1545 3424 2554 3417" 
+                    HPOS="1537"
+                    VPOS="3356"
+                    WIDTH="1017"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1545 3424 1537 3375 2543 3356 2554 3417 2550 3436 1545 3451"/></Shape>
+	    <String CONTENT="couvrir des feuilles minces de fer ou"
+                    HPOS="1537"
+                    VPOS="3356"
+                    WIDTH="1017"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b3c00fa"
+                    
+                    BASELINE="1545 3486 2558 3474" 
+                    HPOS="1537"
+                    VPOS="3413"
+                    WIDTH="1021"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1545 3486 1537 3428 2547 3413 2558 3474 2554 3505 1545 3509"/></Shape>
+	    <String CONTENT="d’acier, etc., avec du cuivre ou ses al-"
+                    HPOS="1537"
+                    VPOS="3413"
+                    WIDTH="1021"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2319632"
+                    
+                    BASELINE="1545 3547 1862 3547" 
+                    HPOS="1545"
+                    VPOS="3486"
+                    WIDTH="317"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1545 3547 1545 3486 1862 3486 1862 3547 1862 3562 1545 3566"/></Shape>
+	    <String CONTENT="liages. 7.147."
+                    HPOS="1545"
+                    VPOS="3486"
+                    WIDTH="317"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22c0a909"
+                    
+                    BASELINE="1591 3600 2558 3593" 
+                    HPOS="1583"
+                    VPOS="3528"
+                    WIDTH="975"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1591 3600 1583 3551 1701 3528 1701 3528 1705 3528 2550 3528 2558 3593 2554 3623 1587 3619"/></Shape>
+	    <String CONTENT="Clarke. Perf. aux bateaux pour mar-"
+                    HPOS="1583"
+                    VPOS="3528"
+                    WIDTH="975"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5326a4b"
+                    
+                    BASELINE="1545 3661 1954 3661" 
+                    HPOS="1545"
+                    VPOS="3600"
+                    WIDTH="409"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1545 3661 1545 3600 1954 3608 1954 3661 1954 3688 1545 3688"/></Shape>
+	    <String CONTENT="chandises. 7.089."
+                    HPOS="1545"
+                    VPOS="3600"
+                    WIDTH="409"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a8562b6"
+                    
+                    BASELINE="1591 3723 2554 3723" 
+                    HPOS="1587"
+                    VPOS="3642"
+                    WIDTH="967"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="1591 3723 1591 3661 2321 3665 2359 3646 2359 3642 2363 3642 2363 3642 2363 3642 2367 3642 2367 3642 2371 3642 2554 3642 2554 3723 2554 3749 1812 3772 1809 3772 1587 3749"/></Shape>
+	    <String CONTENT="Clavenad. Indicateur de stabilté."
+                    HPOS="1587"
+                    VPOS="3642"
+                    WIDTH="967"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de91253a"
+                    
+                    BASELINE="1541 3791 1682 3791" 
+                    HPOS="1537"
+                    VPOS="3715"
+                    WIDTH="145"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1541 3791 1541 3715 1682 3726 1682 3791 1678 3814 1537 3807"/></Shape>
+	    <String CONTENT="7.117."
+                    HPOS="1537"
+                    VPOS="3715"
+                    WIDTH="145"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42f01815"
+                    
+                    BASELINE="1591 3853 2554 3845" 
+                    HPOS="1583"
+                    VPOS="3761"
+                    WIDTH="971"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1591 3853 1583 3791 1690 3765 1690 3765 1690 3765 1694 3765 1942 3780 2061 3784 2084 3772 2114 3761 2114 3761 2118 3761 2118 3761 2118 3761 2122 3761 2122 3761 2122 3761 2126 3761 2126 3761 2126 3761 2149 3772 2164 3780 2543 3761 2554 3845 2550 3876 1591 3883"/></Shape>
+	    <String CONTENT="Clerc. Machine à couper la viande,"
+                    HPOS="1583"
+                    VPOS="3761"
+                    WIDTH="971"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a57d08eb"
+                    
+                    BASELINE="1545 3914 2294 3914" 
+                    HPOS="1545"
+                    VPOS="3845"
+                    WIDTH="749"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1545 3914 1545 3845 2294 3849 2294 3914 2294 3940 1545 3944"/></Shape>
+	    <String CONTENT="le pain, le fromage, etc. 7.192."
+                    HPOS="1545"
+                    VPOS="3845"
+                    WIDTH="749"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e27619c3"
+                    
+                    BASELINE="1591 3979 2562 3967" 
+                    HPOS="1583"
+                    VPOS="3898"
+                    WIDTH="979"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1591 3979 1583 3910 2550 3898 2562 3967 2562 3986 2237 4017 2233 4017 2233 4017 2233 4017 2141 3998 1977 4017 1977 4017 1973 4017 1973 4017 1973 4017 1969 4017 1969 4017 1927 3998 1900 4021 1900 4021 1896 4021 1896 4021 1896 4021 1893 4021 1893 4021 1889 4021 1889 4021 1889 4021 1885 4021 1885 4021 1881 4021 1847 4002 1591 4002"/></Shape>
+	    <String CONTENT="Couinaud. Patin à billes de roule-"
+                    HPOS="1583"
+                    VPOS="3898"
+                    WIDTH="979"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee0f3f8c"
+                    
+                    BASELINE="1537 4040 1847 4040" 
+                    HPOS="1533"
+                    VPOS="3975"
+                    WIDTH="314"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1537 4040 1533 3983 1843 3975 1847 4040 1847 4093 1640 4116 1640 4116 1636 4116 1636 4116 1533 4093"/></Shape>
+	    <String CONTENT="ment. 7086."
+                    HPOS="1533"
+                    VPOS="3975"
+                    WIDTH="314"
+                    HEIGHT="141"></String>
           </TextLine>
 
           
@@ -1941,9 +1951,9 @@
                    VPOS="305"
                    WIDTH="27"
                    HEIGHT="27"
-                   ID="eSc_textblock_fab2a13a"
+                   ID="eSc_textblock_a9835e9e"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1407 305 1434 305 1434 332 1407 332 1407 305"/></Shape>
+          <Shape><Polygon POINTS="1434 305 1434 332 1407 332 1407 305"/></Shape>
           
         </TextBlock>
         
@@ -1951,9 +1961,9 @@
                    VPOS="305"
                    WIDTH="42"
                    HEIGHT="27"
-                   ID="eSc_textblock_87af2f38"
+                   ID="eSc_textblock_8b6f8c66"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1545 305 1587 305 1587 332 1545 332 1545 305"/></Shape>
+          <Shape><Polygon POINTS="1587 305 1587 332 1545 332 1545 305"/></Shape>
           
         </TextBlock>
         
@@ -1961,9 +1971,9 @@
                    VPOS="275"
                    WIDTH="11"
                    HEIGHT="26"
-                   ID="eSc_textblock_539186ab"
+                   ID="eSc_textblock_6ab916e4"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="1958 275 1969 275 1969 301 1958 301 1958 275"/></Shape>
+          <Shape><Polygon POINTS="1969 275 1969 301 1958 301 1958 275"/></Shape>
           
         </TextBlock>
         
