@@ -207,7 +207,7 @@
                     WIDTH="979"
                     HEIGHT="85">
             <Shape><Polygon POINTS="501 1074 497 1020 1464 1012 1472 1081 1464 1097 493 1089"/></Shape>
-	    <String CONTENT="Biéchy et Krieger, Procèdé pour en-"
+	    <String CONTENT="Biéchy et Krieger, Procédé pour en-"
                     HPOS="493"
                     VPOS="1012"
                     WIDTH="979"
@@ -666,7 +666,7 @@
                     WIDTH="639"
                     HEIGHT="104">
             <Shape><Polygon POINTS="455 2721 455 2652 1082 2675 1086 2729 1078 2756 447 2752"/></Shape>
-	    <String CONTENT="Itoutes les charrues. 7.623."
+	    <String CONTENT="toutes les charrues. 7.623."
                     HPOS="447"
                     VPOS="2652"
                     WIDTH="639"
@@ -1050,33 +1050,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1392"
-                   VPOS="321"
-                   WIDTH="225"
-                   HEIGHT="57"
-                   ID="eSc_textblock_5eb96209"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1602 321 1617 363 1392 378 1392 321"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_2db7706b"
-                    
-                    BASELINE="1388 366 1606 366" 
-                    HPOS="1380"
-                    VPOS="309"
-                    WIDTH="222"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="1384 363 1384 309 1602 313 1602 363 1598 397 1380 389"/></Shape>
-	    <String CONTENT="_ 8 _"
-                    HPOS="1380"
-                    VPOS="309"
-                    WIDTH="222"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="1522"
                    VPOS="436"
                    WIDTH="1028"
@@ -1332,7 +1305,7 @@
                     WIDTH="1013"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1525 1314 1525 1257 2528 1265 2531 1322 2524 1345 1518 1337"/></Shape>
-	    <String CONTENT="automobiles et autres genres de locomo"
+	    <String CONTENT="automobiles et autres genres de locomo-"
                     HPOS="1518"
                     VPOS="1257"
                     WIDTH="1013"
@@ -1383,7 +1356,7 @@
                     WIDTH="979"
                     HEIGHT="107">
             <Shape><Polygon POINTS="1571 1502 1564 1448 2531 1433 2543 1494 2543 1521 2214 1536 2210 1536 2210 1536 2210 1536 2206 1536 2206 1536 2202 1536 2202 1536 2202 1536 2187 1521 2176 1513 2153 1521 2103 1532 2099 1532 2099 1532 2095 1532 2095 1532 2095 1532 2092 1532 2092 1532 2092 1532 2065 1517 2053 1513 2011 1517 1870 1540 1870 1540 1866 1540 1866 1540 1866 1540 1862 1540 1778 1517 1778 1517 1774 1517 1721 1540 1721 1540 1717 1540 1717 1540 1717 1540 1713 1540 1713 1540 1568 1513"/></Shape>
-	    <String CONTENT="Camp, Gordon et Rager. Frein."
+	    <String CONTENT="Camp, Gordon et Rager. Frein"
                     HPOS="1564"
                     VPOS="1433"
                     WIDTH="979"
@@ -2124,7 +2097,38 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="1392"
+                   VPOS="321"
+                   WIDTH="225"
+                   HEIGHT="57"
+                   ID="eSc_textblock_5eb96209"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1602 321 1617 363 1392 378 1392 321"/></Shape>
+          
+        </TextBlock>
+        
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9ed0bfba"
+                    
+                    BASELINE="1389 371 1616 371" 
+                    HPOS="1384"
+                    VPOS="309"
+                    WIDTH="229"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1388 370 1388 309 1613 309 1613 370 1610 397 1384 389"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1384"
+                    VPOS="309"
+                    WIDTH="229"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>
