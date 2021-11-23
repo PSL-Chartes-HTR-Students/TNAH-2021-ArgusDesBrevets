@@ -5,7 +5,8 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>9_00690_default.jpg</fileName>
+      <fileName>9
+      00690_default.jpg</fileName>
       <fileIdentifier>https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1418369x/f10/full/full/0/default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
@@ -2120,7 +2121,7 @@
                     WIDTH="229"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1388 370 1388 309 1613 309 1613 370 1610 397 1384 389"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="_ 8 _"
                     HPOS="1384"
                     VPOS="309"
                     WIDTH="229"
