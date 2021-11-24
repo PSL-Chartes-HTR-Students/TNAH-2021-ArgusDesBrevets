@@ -462,7 +462,7 @@
                     WIDTH="1013.0"
                     HEIGHT="110.0">
             <Shape><Polygon POINTS="485 1934 485 1873 1491 1899 1491 1953 1483 1983 478 1964"/></Shape>
-	    <String CONTENT="be (Sté Anme), Constateur-imprimeur."
+	    <String CONTENT="be (Sté Anᵐᵉ), Constateur-imprimeur."
                     HPOS="478.0"
                     VPOS="1873.0"
                     WIDTH="1013.0"
@@ -513,7 +513,7 @@
                     WIDTH="1021.0"
                     HEIGHT="111.0">
             <Shape><Polygon POINTS="478 2129 478 2060 1487 2071 1491 2140 1483 2171 470 2159"/></Shape>
-	    <String CONTENT="geot (Sté Anme). Système de bielles pour"
+	    <String CONTENT="geot (Sté Anᵐᵉ). Système de bielles pour"
                     HPOS="470.0"
                     VPOS="2060.0"
                     WIDTH="1021.0"
@@ -581,7 +581,7 @@
                     WIDTH="1021.0"
                     HEIGHT="103.0">
             <Shape><Polygon POINTS="474 2381 474 2312 1483 2335 1487 2392 1480 2415 466 2408"/></Shape>
-	    <String CONTENT="geot (Sté Anme), Soupapes pour moteurs."
+	    <String CONTENT="geot (Sté Anᵐᵉ), Soupapes pour moteurs."
                     HPOS="466.0"
                     VPOS="2312.0"
                     WIDTH="1021.0"
@@ -632,7 +632,7 @@
                     WIDTH="1021.0"
                     HEIGHT="95.0">
             <Shape><Polygon POINTS="474 2568 474 2511 1487 2519 1487 2587 1480 2606 466 2587"/></Shape>
-	    <String CONTENT="geot (Sté Anme). Moteur à explosions à"
+	    <String CONTENT="geot (Sté Anᵐᵉ). Moteur à explosions à"
                     HPOS="466.0"
                     VPOS="2511.0"
                     WIDTH="1021.0"
@@ -700,7 +700,7 @@
                     WIDTH="1022.0"
                     HEIGHT="100.0">
             <Shape><Polygon POINTS="466 2817 466 2759 1476 2775 1480 2832 1472 2859 458 2847"/></Shape>
-	    <String CONTENT="geot (Sté Anme des). Moteurs à explo-"
+	    <String CONTENT="geot (Sté Anᵐᵉ des). Moteurs à explo-"
                     HPOS="458.0"
                     VPOS="2759.0"
                     WIDTH="1022.0"
@@ -734,7 +734,7 @@
                     WIDTH="585.0"
                     HEIGHT="96.0">
             <Shape><Polygon POINTS="462 2939 462 2870 1040 2893 1040 2950 1032 2966 455 2954"/></Shape>
-	    <String CONTENT="en porte à faux, 7314."
+	    <String CONTENT="en porte à faux, 7.314."
                     HPOS="455.0"
                     VPOS="2870.0"
                     WIDTH="585.0"
@@ -751,7 +751,7 @@
                     WIDTH="983.0"
                     HEIGHT="92.0">
             <Shape><Polygon POINTS="504 3000 501 2939 1472 2935 1480 3012 1472 3027 497 3015"/></Shape>
-	    <String CONTENT="Constructions, aériennes Rossel-Peu-"
+	    <String CONTENT="Constructions aériennes Rossel-Peu-"
                     HPOS="497.0"
                     VPOS="2935.0"
                     WIDTH="983.0"
@@ -768,7 +768,7 @@
                     WIDTH="1021.0"
                     HEIGHT="95.0">
             <Shape><Polygon POINTS="462 3058 462 2993 1472 3015 1476 3073 1468 3088 455 3080"/></Shape>
-	    <String CONTENT="geot (Sté Anme des). Distribution à sou-"
+	    <String CONTENT="geot (Sté Anᵐᵉ des). Distribution à sou-"
                     HPOS="455.0"
                     VPOS="2993.0"
                     WIDTH="1021.0"
@@ -904,7 +904,7 @@
                     WIDTH="1013.0"
                     HEIGHT="92.0">
             <Shape><Polygon POINTS="458 3535 458 3478 1464 3501 1464 3558 1457 3570 451 3562"/></Shape>
-	    <String CONTENT="verm Rossler (Sté). Préparation de"
+	    <String CONTENT="verm Rôssler (Sté). Préparation de"
                     HPOS="451.0"
                     VPOS="3478.0"
                     WIDTH="1013.0"
@@ -1407,7 +1407,7 @@
                     WIDTH="842.0"
                     HEIGHT="103.0">
             <Shape><Polygon POINTS="1560 1639 1560 1571 2390 1597 2394 1651 2386 1674 1552 1662"/></Shape>
-	    <String CONTENT="Anme). Perf. aux dragues. 7.605."
+	    <String CONTENT="Anᵐᵉ). Perf. aux dragues. 7.605."
                     HPOS="1552.0"
                     VPOS="1571.0"
                     WIDTH="842.0"
@@ -1747,7 +1747,7 @@
                     WIDTH="895.0"
                     HEIGHT="103.0">
             <Shape><Polygon POINTS="1545 2843 1545 2771 2428 2790 2432 2847 2424 2874 1537 2870"/></Shape>
-	    <String CONTENT="tive imprimant sur feuilles, 7.545."
+	    <String CONTENT="tive imprimant sur feuilles. 7.545."
                     HPOS="1537.0"
                     VPOS="2771.0"
                     WIDTH="895.0"
@@ -1900,7 +1900,7 @@
                     WIDTH="1017.0"
                     HEIGHT="99.0">
             <Shape><Polygon POINTS="1533 3382 1533 3310 2539 3325 2543 3386 2535 3409 1526 3394"/></Shape>
-	    <String CONTENT="Bureau, Paul Fabian (Firme), Porte-"
+	    <String CONTENT="Bureau, Paul Fabian (Firme). Porte-"
                     HPOS="1526.0"
                     VPOS="3310.0"
                     WIDTH="1017.0"
@@ -1951,7 +1951,7 @@
                     WIDTH="968.0"
                     HEIGHT="114.0">
             <Shape><Polygon POINTS="1579 3554 1575 3493 2214 3482 2218 3482 2535 3505 2539 3566 2531 3596 1571 3577"/></Shape>
-	    <String CONTENT="Maison Beer (Sté Anme), Pelle méca-"
+	    <String CONTENT="Maison Beer (Sté Anᵐᵉ). Pelle méca-"
                     HPOS="1571.0"
                     VPOS="3482.0"
                     WIDTH="968.0"

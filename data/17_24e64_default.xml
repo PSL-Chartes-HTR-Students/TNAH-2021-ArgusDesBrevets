@@ -37,7 +37,7 @@
                     WIDTH="1033"
                     HEIGHT="130">
             <Shape><Polygon POINTS="474 454 470 397 807 374 810 374 810 374 814 374 910 397 925 405 1028 405 1032 401 1059 378 1059 378 1063 378 1063 378 1063 378 1067 378 1067 378 1070 378 1070 378 1070 378 1170 401 1193 405 1235 401 1407 382 1407 382 1411 382 1411 382 1415 382 1499 405 1499 466 1491 504 466 477"/></Shape>
-	    <String CONTENT="les envoyer à travers une"
+	    <String CONTENT="les envoyer à travers une tuyauterie qui"
                     HPOS="466"
                     VPOS="374"
                     WIDTH="1033"
@@ -887,7 +887,7 @@
                     WIDTH="1013"
                     HEIGHT="88">
             <Shape><Polygon POINTS="443 3421 443 3367 1445 3382 1449 3436 1441 3455 436 3444"/></Shape>
-	    <String CONTENT="mnet les bruns pour les présenter aux"
+	    <String CONTENT="mnet les brins pour les présenter aux"
                     HPOS="436"
                     VPOS="3367"
                     WIDTH="1013"
@@ -1638,7 +1638,7 @@
                     WIDTH="1006"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1529 2366 1529 2312 2524 2312 2528 2377 2520 2396 1522 2385"/></Shape>
-	    <String CONTENT="qué, ce qui permet de loger la matière fu-"
+	    <String CONTENT="qué, ce qui permet de loger la matière fil-"
                     HPOS="1522"
                     VPOS="2312"
                     WIDTH="1006"
@@ -1740,7 +1740,7 @@
                     WIDTH="1021"
                     HEIGHT="95">
             <Shape><Polygon POINTS="1526 2721 1526 2664 2535 2664 2539 2733 2531 2759 1518 2744"/></Shape>
-	    <String CONTENT="et raffineries -- P. Langrange -- 7-1-1910"
+	    <String CONTENT="et raffineries -- P. Lagrange -- 7-1-1910"
                     HPOS="1518"
                     VPOS="2664"
                     WIDTH="1021"

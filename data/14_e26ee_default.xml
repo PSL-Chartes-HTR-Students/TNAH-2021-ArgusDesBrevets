@@ -224,7 +224,7 @@
                     WIDTH="952"
                     HEIGHT="130">
             <Shape><Polygon POINTS="561 1137 559 1095 861 1091 867 1069 902 1053 906 1053 909 1053 913 1053 974 1069 993 1072 1001 1069 1032 1042 1036 1042 1039 1042 1043 1042 1146 1065 1154 1065 1177 1046 1181 1046 1185 1046 1188 1046 1192 1046 1242 1061 1253 1065 1257 1061 1280 1042 1280 1038 1284 1038 1288 1038 1292 1038 1490 1057 1511 1124 1494 1145 561 1168"/></Shape>
-	    <String CONTENT="Van den Kerchove (Sté anme des Anc."
+	    <String CONTENT="Van den Kerchove (Sté anᵐᵉ des Anc."
                     HPOS="559"
                     VPOS="1038"
                     WIDTH="952"
@@ -632,7 +632,7 @@
                     WIDTH="975"
                     HEIGHT="107">
             <Shape><Polygon POINTS="569 2585 565 2523 948 2523 959 2516 990 2501 990 2501 990 2501 993 2501 993 2501 993 2501 997 2501 997 2501 1093 2516 1104 2516 1116 2516 1204 2493 1208 2493 1208 2493 1211 2493 1211 2493 1215 2493 1215 2493 1215 2493 1257 2512 1257 2512 1529 2512 1540 2562 1540 2581 569 2600"/></Shape>
-	    <String CONTENT="Walter. Brûleur mobile à gaz à à al-"
+	    <String CONTENT="Walter. Brûleur mobile à gaz ou à al-"
                     HPOS="565"
                     VPOS="2493"
                     WIDTH="975"
@@ -1944,7 +1944,7 @@
                     WIDTH="1013"
                     HEIGHT="92">
             <Shape><Polygon POINTS="1620 3398 1613 3333 2614 3325 2626 3386 2622 3405 1620 3417"/></Shape>
-	    <String CONTENT="Van den Kerchove (Sté Anme). Machine"
+	    <String CONTENT="Van den Kerchove (Sté Anᵐᵉ). Machine"
                     HPOS="1613"
                     VPOS="3325"
                     WIDTH="1013"
@@ -2046,7 +2046,7 @@
                     WIDTH="493"
                     HEIGHT="92">
             <Shape><Polygon POINTS="1620 3764 1613 3707 2094 3699 2106 3757 2106 3780 1620 3791"/></Shape>
-	    <String CONTENT="de librifiant. 7.388."
+	    <String CONTENT="de lubrifiant. 7.388."
                     HPOS="1613"
                     VPOS="3699"
                     WIDTH="493"
@@ -2080,7 +2080,7 @@
                     WIDTH="1006"
                     HEIGHT="107">
             <Shape><Polygon POINTS="1632 3879 1624 3822 2618 3810 2630 3871 2626 3894 1632 3917"/></Shape>
-	    <String CONTENT="ciété Anme des). Dispositif de vidange"
+	    <String CONTENT="ciété Anᵐᵉ des). Dispositif de vidange"
                     HPOS="1624"
                     VPOS="3810"
                     WIDTH="1006"

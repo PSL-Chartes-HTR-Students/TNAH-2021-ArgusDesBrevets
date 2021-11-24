@@ -88,7 +88,7 @@
                     WIDTH="1025"
                     HEIGHT="88">
             <Shape><Polygon POINTS="554 660 554 603 1567 607 1571 672 1563 691 546 675"/></Shape>
-	    <String CONTENT="ser, d&#39;une roue à augets animér d&#39;un mou-"
+	    <String CONTENT="ser, d&#39;une roue à augets animée d&#39;un mou-"
                     HPOS="546"
                     VPOS="603"
                     WIDTH="1025"
@@ -2063,7 +2063,7 @@
                     WIDTH="1013"
                     HEIGHT="103">
             <Shape><Polygon POINTS="1597 3971 1597 3902 2599 3909 2603 3974 2595 4005 1590 3986"/></Shape>
-	    <String CONTENT="sé un cylindre qui peut tourbilloner dans"
+	    <String CONTENT="sé un cylindre qui peut tourilloner dans"
                     HPOS="1590"
                     VPOS="3902"
                     WIDTH="1013"
