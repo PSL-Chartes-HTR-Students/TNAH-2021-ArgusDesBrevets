@@ -496,7 +496,7 @@
                     WIDTH="982"
                     HEIGHT="99">
             <Shape><Polygon POINTS="485 2167 478 2117 1449 2098 1460 2152 1460 2178 485 2197"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="*Major. Appareil de projections fixes"
                     HPOS="478"
                     VPOS="2098"
                     WIDTH="982"
@@ -1111,7 +1111,7 @@
                     WIDTH="964"
                     HEIGHT="126">
             <Shape><Polygon POINTS="1541 519 1537 428 1629 451 1766 428 1801 424 1801 424 1805 424 1805 424 1805 424 1809 424 1809 424 1820 428 1866 447 1919 428 1950 420 1954 420 1954 420 1954 420 1958 420 1958 420 2015 431 2084 443 2306 439 2313 431 2340 412 2344 412 2344 412 2344 412 2348 412 2348 412 2348 412 2352 412 2352 412 2493 435 2501 500 2501 535 1541 538"/></Shape>
-	    <String CONTENT="«Paillet et Societé Duereiet et Roger."
+	    <String CONTENT="*Paillet et Societé Duereiet et Roger."
                     HPOS="1537"
                     VPOS="412"
                     WIDTH="964"
@@ -2143,11 +2143,11 @@
         
         <TextBlock HPOS="2600"
                    VPOS="3195"
-                   WIDTH="42"
+                   WIDTH="33"
                    HEIGHT="42"
                    ID="eSc_textblock_4d835a3c"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="2627 3195 2642 3222 2600 3237 2600 3195"/></Shape>
+          <Shape><Polygon POINTS="2627 3195 2633 3205 2616 3205 2616 3231 2600 3237 2600 3195"/></Shape>
           
           
           <TextLine ID="eSc_line_4f50b550"
@@ -2158,7 +2158,7 @@
                     WIDTH="19"
                     HEIGHT="141">
             <Shape><Polygon POINTS="2608 3218 2608 3165 2627 3165 2627 3218 2627 3306 2608 3306"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="."
                     HPOS="2608"
                     VPOS="3165"
                     WIDTH="19"
