@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT1555" LABEL="ColonneG" DESCRIPTION="block type ColonneG"/><OtherTag ID="BT1556" LABEL="ColonneD" DESCRIPTION="block type ColonneD"/><OtherTag ID="BT1557" LABEL="NumPage" DESCRIPTION="block type NumPage"/><OtherTag ID="BT1558" LABEL="Titre" DESCRIPTION="block type Titre"/><OtherTag ID="BT1559" LABEL="SousTitre" DESCRIPTION="block type SousTitre"/><OtherTag ID="BT1560" LABEL="SousSousTitre" DESCRIPTION="block type SousSousTitre"/>
+    
+  </Tags>
+  
   <Layout>
     <Page WIDTH="3131"
           HEIGHT="4582"
@@ -25,7 +30,7 @@
                    WIDTH="1074"
                    HEIGHT="3700"
                    ID="eSc_textblock_272533d9"
-                   TAGREFS="BT">
+                   TAGREFS="BT1555">
           <Shape><Polygon POINTS="856 4043 550 4104 489 442 1550 404 1550 2520 1563 2520 1563 4056"/></Shape>
           
           
@@ -1072,7 +1077,7 @@
                    WIDTH="256"
                    HEIGHT="57"
                    ID="eSc_textblock_fc22dc28"
-                   TAGREFS="BT">
+                   TAGREFS="BT1557">
           <Shape><Polygon POINTS="1662 305 1662 347 1406 347 1513 290"/></Shape>
           
           
@@ -1099,7 +1104,7 @@
                    WIDTH="1077"
                    HEIGHT="3693"
                    ID="eSc_textblock_871ebb4f"
-                   TAGREFS="BT">
+                   TAGREFS="BT1556">
           <Shape><Polygon POINTS="2595 397 2641 4074 1582 4056 1582 2435 1576 2435 1576 4056 1564 4056 1564 2520 1569 2520 1569 403 2171 381"/></Shape>
           
           

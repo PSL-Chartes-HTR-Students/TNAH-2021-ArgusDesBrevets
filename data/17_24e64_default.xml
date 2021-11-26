@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT1555" LABEL="ColonneG" DESCRIPTION="block type ColonneG"/><OtherTag ID="BT1556" LABEL="ColonneD" DESCRIPTION="block type ColonneD"/><OtherTag ID="BT1557" LABEL="NumPage" DESCRIPTION="block type NumPage"/><OtherTag ID="BT1558" LABEL="Titre" DESCRIPTION="block type Titre"/><OtherTag ID="BT1559" LABEL="SousTitre" DESCRIPTION="block type SousTitre"/><OtherTag ID="BT1560" LABEL="SousSousTitre" DESCRIPTION="block type SousSousTitre"/>
+    
+  </Tags>
+  
   <Layout>
     <Page WIDTH="3163"
           HEIGHT="4587"
@@ -25,7 +30,7 @@
                    WIDTH="1072"
                    HEIGHT="3696"
                    ID="eSc_textblock_e1543fc0"
-                   TAGREFS="BT">
+                   TAGREFS="BT1555">
           <Shape><Polygon POINTS="1480 1803 1480 3386 1474 3386 1474 3393 1454 3393 1454 4108 428 4093 489 412 1500 427 1500 1803"/></Shape>
           
           
@@ -1111,13 +1116,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1493"
+        <TextBlock HPOS="1533"
                    VPOS="427"
-                   WIDTH="1088"
-                   HEIGHT="3697"
+                   WIDTH="1048"
+                   HEIGHT="1097"
                    ID="eSc_textblock_7999c54d"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2581 443 2505 4124 1493 4109 1493 3426 1493 3426 1493 3406 1500 3406 1500 1843 1533 1843 1533 427"/></Shape>
+                   TAGREFS="BT1556">
+          <Shape><Polygon POINTS="2581 443 2559 1524 1533 1524 1533 427"/></Shape>
           
           
           <TextLine ID="eSc_line_3906dc8f"
@@ -2138,6 +2143,26 @@
                     HEIGHT="137"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1493"
+                   VPOS="1663"
+                   WIDTH="1063"
+                   HEIGHT="2461"
+                   ID="eSc_textblock_d649f99d"
+                   TAGREFS="BT1556">
+          <Shape><Polygon POINTS="2505 4124 1493 4109 1493 3406 1500 3406 1500 1843 1533 1843 1533 1663 2556 1663"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1533"
+                   VPOS="1551"
+                   WIDTH="1025"
+                   HEIGHT="96"
+                   ID="eSc_textblock_d496c54b"
+                   TAGREFS="BT1560">
+          <Shape><Polygon POINTS="1533 1551 2558 1551 2556 1647 1533 1647"/></Shape>
           
         </TextBlock>
         
