@@ -2119,13 +2119,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1452"
-                   VPOS="290"
-                   WIDTH="226"
-                   HEIGHT="57"
-                   ID="eSc_textblock_bf72f0ff"
+        <TextBlock HPOS="1450"
+                   VPOS="293"
+                   WIDTH="249"
+                   HEIGHT="81"
+                   ID="eSc_textblock_5962f775"
                    TAGREFS="BT1557">
-          <Shape><Polygon POINTS="1678 305 1678 347 1452 347 1559 290"/></Shape>
+          <Shape><Polygon POINTS="1450 293 1450 374 1699 374 1699 293"/></Shape>
           
         </TextBlock>
         
