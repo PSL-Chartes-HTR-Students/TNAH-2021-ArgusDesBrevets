@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT1555" LABEL="ColonneG" DESCRIPTION="block type ColonneG"/><OtherTag ID="BT1556" LABEL="ColonneD" DESCRIPTION="block type ColonneD"/><OtherTag ID="BT1557" LABEL="NumPage" DESCRIPTION="block type NumPage"/><OtherTag ID="BT1558" LABEL="Titre" DESCRIPTION="block type Titre"/><OtherTag ID="BT1559" LABEL="SousTitre" DESCRIPTION="block type SousTitre"/><OtherTag ID="BT1560" LABEL="SousSousTitre" DESCRIPTION="block type SousSousTitre"/>
+    
+  </Tags>
+  
   <Layout>
     <Page WIDTH="3131"
           HEIGHT="4582"
@@ -25,7 +30,7 @@
                    WIDTH="1038"
                    HEIGHT="3677"
                    ID="eSc_textblock_d6d8edbb"
-                   TAGREFS="BT">
+                   TAGREFS="BT1555">
           <Shape><Polygon POINTS="611 4089 550 4013 550 504 611 412 1588 417 1583 4082"/></Shape>
           
           
@@ -1072,7 +1077,7 @@
                    WIDTH="1044"
                    HEIGHT="3663"
                    ID="eSc_textblock_30abda73"
-                   TAGREFS="BT">
+                   TAGREFS="BT1556">
           <Shape><Polygon POINTS="2656 427 2656 4074 1612 4082 1612 419"/></Shape>
           
           
@@ -2119,7 +2124,7 @@
                    WIDTH="226"
                    HEIGHT="57"
                    ID="eSc_textblock_bf72f0ff"
-                   TAGREFS="BT">
+                   TAGREFS="BT1557">
           <Shape><Polygon POINTS="1678 305 1678 347 1452 347 1559 290"/></Shape>
           
         </TextBlock>
@@ -2136,8 +2141,8 @@
                     VPOS="274"
                     WIDTH="233"
                     HEIGHT="104">
-            <Shape><Polygon POINTS="1456 347 1452 297 1601 274 1601 274 1605 274 1605 274 1605 274 1609 274 1685 301 1682 347 1682 374 1456 378"/></Shape>
-	    <String CONTENT="_ 9 _"
+            <Shape><Polygon POINTS="1456 347 1452 297 1601 274 1605 274 1609 274 1685 301 1682 347 1682 374 1456 378"/></Shape>
+	    <String CONTENT="_9_"
                     HPOS="1452"
                     VPOS="274"
                     WIDTH="233"
