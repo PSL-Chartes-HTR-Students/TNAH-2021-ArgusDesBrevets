@@ -14,7 +14,7 @@ Ainsi, concernant les abréviations, nous avons décidé de conserver la graphie
 Nous avons été amené à réaliser certains choix relevant de la transcription et de l’édition du document. Pour ce faire, nous nous sommes référé au *Lexique typographique en usage à l’Imprimerie nationale* :
 - les tirets en fin de ligne faisant la césure au sein des mots ont été rétablis (ex : direc-tion).
 - les numéros de page en haut de page ont été transcris ainsi : « _ N _ » où N correspond au numéro de page.
-- en cas de caractères mal imprimés ou usés, ceux-ci ont été rétablis dans la mesure où ceux-ci sont facilement interprétables (et non devinables) par le lecteur. 
+- en cas de caractères mal imprimés ou usés, ceux-ci ont été rétablis dans la mesure où ils sont facilement interprétables (mais non devinables) par le lecteur. 
 ------------
 
 ## Mise en forme et guide de contribution
