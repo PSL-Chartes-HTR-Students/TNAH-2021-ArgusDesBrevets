@@ -1,0 +1,53 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: Argus des Brevets
+url: 'https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-ArgusDesBrevets'
+project-name: >
+    ENC - Bonnes pratiques du developpement collaboratif'
+
+authors:
+    - name: 'De Craene'
+      surname: 'Valentin'
+      roles:
+      - 'transcriber'
+    - name: 'Humeau'
+      surname: 'Maxime'
+      roles:
+      - 'transcriber'
+    - name: 'Reignier'
+      surname: 'Virgile'
+      roles:
+      - 'transcriber'
+description: >
+  L’argus des brevets de 1910 se présente sous la forme d’un imprimé contemporain, organisé en rubriques regroupant de manière chronologique puis thématique les brevets déposés en France. Cette énumération et présentation succincte des brevets est répartie en deux colonnes et présente des abréviations normalisées. Dès lors, ce présent guide de contribution au projet entend présenter l’ensemble des normes de transcriptions adoptées au cours de ce projet de transcription, réalisé sur la plateforme E-scriptorium, dans le cadre du cours Git du master TNAH à l’ENC.
+language:
+  - fra
+script: 
+  - Latn
+script-type: 'only-typed'
+time: 
+  notBefore: "1910"
+  notAfter: "1910"
+hands: 
+  count: '1'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Alto-XML'
+citation-file-link: 'https://raw.githubusercontent.com/PSL-Chartes-HTR-Students/TNAH-2021-ArgusDesBrevets/main/CITATION.cff'
+transcription-guidelines: >
+    En premier lieu, nous avons décidé de fonder notre transcription sur les recommandations publiées dans l’ouvrage *L’édition critique des textes contemporains, XIXe-XXIe siècle*, par Christine Nougaret, Elisabeth Parinet et Florence Clavaud. Néanmoins, certaines adaptations ont été nécessaires afin de fournir un jeu de données issue de la transcription, qui soit à la fois proche du document source et exploitable par la suite.
+    Ainsi, concernant les abréviations, nous avons décidé de conserver la graphie originale au sein de la transcription. Ce choix fut guidé par deux éléments : d’une part, la volonté de conserver une graphie intègre, afin de fournir aux chercheurs s’intéressant à ce sujet un texte facilement exploitable de manière automatique, comme par exemple une analyse quantitative des types de sociétés (anonymes, familiales,…) déposant des brevets. Cette décision fut motivée par la facilité de résolution et compréhension des abréviations par le lecteur. D'autre part, il nous semble que cette approche permettrait une réutilisation générales des données, telle qu'un processus d'apprentissage machine.
+    
+    Nous avons été amené à réaliser certains choix relevant de la transcription et de l’édition du document. Pour ce faire, nous nous sommes référé au *Lexique typographique en usage à l’Imprimerie nationale* :
+    - les tirets en fin de ligne faisant la césure au sein des mots ont été rétablis (ex : direc-tion).
+    - les numéros de page en haut de page ont été transcris ainsi : « _ N _ » où N correspond au numéro de page.
+    - en cas de caractères mal imprimés ou usés, ceux-ci ont été rétablis dans la mesure où ils sont facilement interprétables (mais non devinables) par le lecteur. 
+volume:
+    - count: 1962
+      metric: "lines"
+    - count: 17
+      metric: "files"
+    - count: 86
+      metric: "regions"
+    - count: 55156
+      metric: "characters"
