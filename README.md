@@ -1,5 +1,7 @@
 ## Transcription "Argus des brevets d'invention"
 
+[![DOI](https://zenodo.org/badge/425807963.svg)](https://zenodo.org/badge/latestdoi/425807963)
+
 Auteurs:
 
 - Virgile Reignier
