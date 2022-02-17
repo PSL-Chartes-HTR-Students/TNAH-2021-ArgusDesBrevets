@@ -1,5 +1,11 @@
 ## Transcription "Argus des brevets d'invention"
 
+Auteurs:
+
+- Virgile Reignier
+- Maxime Humeau
+- Valentin De Craene
+
 ## Introduction et présentation du projet
 
 L’[argus des brevets ](https://gallica.bnf.fr/ark:/12148/bpt6k1418369x.r=Argus%20des%20brevets%20d%27invention...%20Liste%20des%20brevets%20d%C3%A9pos%C3%A9s%20et%20d%C3%A9livr%C3%A9s%20en%20France%2C%20publi%C3%A9e%20par%20l%27Office%20des%20brevets%20d%27invention...?rk=42918;4 "argus des brevets ")de 1910 se présente sous la forme d’un imprimé contemporain, organisé en rubriques regroupant de manière chronologique puis thématique les brevets déposés en France. Cette énumération et présentation succincte des brevets est répartie en deux colonnes et présente des abréviations normalisées. Dès lors, ce présent guide de contribution au projet entend présenter l’ensemble des normes de transcriptions adoptées au cours de ce projet de transcription, réalisé sur la plateforme[ E-scriptorium](https://traces6.paris.inria.fr/ " E-scriptorium"), dans le cadre du cours Git du [master TNAH à l’ENC](https://www.chartes.psl.eu/fr/cursus/master-technologies-numeriques-appliquees-histoire "master TNAH à l’ENC").

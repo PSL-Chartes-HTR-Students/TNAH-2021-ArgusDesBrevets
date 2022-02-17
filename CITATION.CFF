@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+cff-version: 1.2.0
+title: Projet Argus des Brevets
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+- family-names: 'De Craene'
+  given-names: 'Valentin'
+- family-names: 'Humeau'
+  given-names: 'Maxime'
+- family-names: 'Reignier'
+  given-names: 'Virgile'
+version: '1.0'
+date-released: '2022-01-20'
+url: "https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-ArgusDesBrevets"
